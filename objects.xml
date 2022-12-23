@@ -1,0 +1,2697 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TreeView xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SpacingBetweenNodes="-1" AllowDragDrop="true" AllowDrop="true" BackColor="233; 240; 249">
+  <Nodes Name="Node1" ImageIndex="1" Text="Ванкор">
+    <Tag xsi:type="xsd:string">start.pdi</Tag>
+  </Nodes>
+  <Nodes Name="Node2" ImageIndex="1" Text="КП">
+    <Nodes Name="Node3" ImageIndex="2" Expanded="true" Text="Состояния скважин">
+      <Tag xsi:type="xsd:string">MWP/mwp_skv_all.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Состояния скважин (альтернативный вариант)">
+      <Tag xsi:type="xsd:string">MWP/mwp_skv_all_ecn.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="СПСКДиТ">
+      <Tag xsi:type="xsd:string">MWP/mwp_spskdit.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node4" ImageIndex="2" Expanded="true" Text="Установки Argosy">
+      <Tag xsi:type="xsd:string">MWP/mwp_argosy.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node5" ImageIndex="2" Expanded="true" Text="Установка Shlumberger">
+      <Tag xsi:type="xsd:string">MWP/MWP_24_31100_VX.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node6" ImageIndex="2" Expanded="true" Text="УСОД">
+      <Tag xsi:type="xsd:string">MWP/mwp_usod_all.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node7" ImageIndex="2" Text="БДХ">
+      <Tag xsi:type="xsd:string">MWP/mwp_bdh_all.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node8" ImageIndex="2" Text="Дренажные емкости">
+      <Tag xsi:type="xsd:string">MWP/mwp_de_all.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node9" ImageIndex="2" Text="Блок-боксы ПКУ">
+      <Tag xsi:type="xsd:string">MWP/mwp_pku_all.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node10" ImageIndex="2" Expanded="true" Text="БДМ Куст 1">
+      <Tag xsi:type="xsd:string">MWP/MWP_27_31100_BDM.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node11" ImageIndex="2" Expanded="true" Text="БДМ Куст 2">
+      <Tag xsi:type="xsd:string">MWP/MWP_27_31200_BDM.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node12" ImageIndex="2" Text="БЗ и РГ Куст 1">
+      <Tag xsi:type="xsd:string">MWP/MWP_28_31100_BZRG.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node13" ImageIndex="2" Expanded="true" Text="БЗ и РГ Куст 2">
+      <Tag xsi:type="xsd:string">MWP/MWP_28_31200_BZRG.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Давление на выходах куст. площадок">
+      <Tag xsi:type="xsd:string">MWP/Trendy kustov.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Установка БИОИ">
+      <Tag xsi:type="xsd:string">MWP/MWP_24_33700_IU.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Куст 14. Повышающая ТП-6/10 кВ">
+      <Tag xsi:type="xsd:string">MWP/MWP_26_32400_NKU.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node14" ImageIndex="1" Text="Динамика параметров">
+      <Nodes Name="Node15" ImageIndex="0" Text="Куст 1">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node16" ImageIndex="0" Text="Куст 2">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node17" ImageIndex="0" Expanded="true" Text="Куст 3">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node18" ImageIndex="0" Text="Куст 4">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust4.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node19" ImageIndex="0" Text="Куст 5">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust5.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node20" ImageIndex="0" Expanded="true" Text="Куст 6">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust6.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node21" ImageIndex="0" Expanded="true" Text="Куст 7">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust7.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node22" ImageIndex="0" Expanded="true" Text="Куст 8">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust8.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Text="Куст 9">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust9.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Text="Куст 10">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust10.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Expanded="true" Text="Куст 12">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust12.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Expanded="true" Text="Куст 14">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust14.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Text="Куст 15">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust15.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Text="Куст 17">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust17.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Text="Куст 19">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust19.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Text="Куст 101">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust101.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="0" Expanded="true" Text="Куст 109">
+        <Tag xsi:type="xsd:string">MWP/Dinamika_kust/dinamic_kust109.pdi</Tag>
+      </Nodes>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Node23" ImageIndex="1" Text="ВДК">
+    <Nodes Name="Новый" ImageIndex="1" Text="ВДК-1">
+      <Nodes Name="Новый" ImageIndex="2" Text="Обзорная ВДК">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_obzor_vdk.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node24" ImageIndex="2" Expanded="true" Text="Куст водозаборных скважин п.2.1, п.2.2">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_77_30801_N1N2.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Node25" ImageIndex="2" Expanded="true" Text="Куст водозаборных скважин п.2.3, п.2.4">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_78_30801_N3N4.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Node26" ImageIndex="2" Expanded="true" Text="Куст водозаборных скважин п.2.5, п.2.6">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_94_30801_N5N6.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Node27" ImageIndex="2" Expanded="true" Text="Куст водозаборных скважин п.2.7, п.2.8">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_95_30801_N7N8.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Node28" ImageIndex="2" Expanded="true" Text="Куст водозаборных скважин п.2.9, п.2.10">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_96_30801_N9N10.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Node29" ImageIndex="2" Expanded="true" Text="Куст водозаборных скважин п.2.11, п.2.12">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_97_30801_N11N12.PDI</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="ВДК-5">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Скважины №49 и №50">
+        <Tag xsi:type="xsd:string">CPS/WWC_01_30803_N12.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Скважины №51 и №52">
+        <Tag xsi:type="xsd:string">CPS/WWC_02_30803_N34.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Скважины №53 и №54">
+        <Tag xsi:type="xsd:string">CPS/WWC_02_30803_N56.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Скважины №55 и №56">
+        <Tag xsi:type="xsd:string">CPS/WWC_02_30803_N78.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Скважины №57 и №58">
+        <Tag xsi:type="xsd:string">CPS/WWC_02_30803_N910.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Скважины №59 и №60">
+        <Tag xsi:type="xsd:string">CPS/WWC_02_30803_N1112.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Шкафы. Диагностика">
+        <Tag xsi:type="xsd:string">CPS/WWC_00_Diagnose.pdi</Tag>
+      </Nodes>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Node30" ImageIndex="1" Text="ВПТ">
+    <Nodes Name="Node31" ImageIndex="2" Text="Обзорная схема ВПТ">
+      <Tag xsi:type="xsd:string">PPS/pps_overview.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node32" ImageIndex="2" Expanded="true" Text="Узел приема-запуска СОД Т 1-С">
+      <Tag xsi:type="xsd:string">PPS/pps_06_30127_t1с.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node33" ImageIndex="2" Text="Участок К6. 1C переход через р.Лодочная">
+      <Tag xsi:type="xsd:string">PPS/pps_08_30130_k6_t1c_pk2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node34" ImageIndex="2" Text="Участок К6-Т1С Т2С">
+      <Tag xsi:type="xsd:string">PPS/pps_09_30129_t2c.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node35" ImageIndex="2" Expanded="true" Text="Участок т.11-УПСВ-Юг. Площадка кранов Т9">
+      <Tag xsi:type="xsd:string">PPS/pps_09_30151_pk.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node36" ImageIndex="2" Text="Временный узел приема-запуска СОД в Т 11">
+      <Tag xsi:type="xsd:string">PPS/pps_11_30145_kppsod_t11.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка СОД в точке 10">
+      <Tag xsi:type="xsd:string">PPS/pps_12_30146_t10.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node38" ImageIndex="2" Expanded="true" Text="Площадка СОД в Т 4">
+      <Tag xsi:type="xsd:string">PPS/pps_13_30150_t4.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node169" ImageIndex="2" Expanded="true" Text="УПСВ-Юг. Зона приема и запуска скребков">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_45_50061_SOD.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная схема нефтесборных трубопроводов">
+      <Tag xsi:type="xsd:string">PPS/pps_VPTObsor_Pres.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка СОД в точке 8">
+      <Tag xsi:type="xsd:string">PPS/PPS_24_30149_t8.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Node39" ImageIndex="1" Text="УПСВ-Ю">
+    <Nodes Name="Node40" ImageIndex="2" Expanded="true" Text="УПСВ-Юг. Обзорная">
+      <Tag xsi:type="xsd:string">WDU_S/wdu_s_01.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-Юг. Обзорная (облегченная)">
+      <Tag xsi:type="xsd:string">WDU_S/wdu_s_01_7.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node43" ImageIndex="2" Expanded="true" Text="УПСВ-Юг. Технологическая схема">
+      <Tag xsi:type="xsd:string">WDU_S/wdu_s_01_Technologie.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node42" ImageIndex="2" Expanded="true" Text="УПСВ-Юг. Потоки">
+      <Tag xsi:type="xsd:string">WDU_S/wdu_s_01_Sloi.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Зона приема и запуска скребков">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_45_50061_SOD.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка пробкоуловителей">
+      <Tag xsi:type="xsd:string">WDU_S/wdu_s_69_50000.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Подготовка нефти">
+      <Nodes Name="Node141" ImageIndex="1" Text="Путевые подогреватели">
+        <Nodes Name="Node148" ImageIndex="2" Expanded="true" Text="Обзорная">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_71_59283.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node149" ImageIndex="2" Expanded="true" Text="Путевые подогреватели. Детально">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_75_59283_p_all.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node175" ImageIndex="2" Expanded="true" Text="Площадка каплеотбойников">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_55_1_59258.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node44" ImageIndex="1" Text="Площадка НГВРП">
+        <Nodes Name="Node44" ImageIndex="2" Expanded="true" Text="Обзорная">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_04_59001_ngvrp.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node45" ImageIndex="2" Expanded="true" Text="НГВРП 1">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a101_59001_NGVR1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node46" ImageIndex="2" Expanded="true" Text="НГВРП 2">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a102_59001_NGVR2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node47" ImageIndex="2" Expanded="true" Text="НГВРП 3">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a103_59001_NGVR3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node48" ImageIndex="2" Expanded="true" Text="БСППВ. Насос №1">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_05_59001_BSPPV1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node49" ImageIndex="2" Expanded="true" Text="БСППВ. Насос №2">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_06_59001_BSPPV2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node50" ImageIndex="2" Expanded="true" Text="БСППВ. Насос №3">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_07_59001_BSPPV3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node51" ImageIndex="0" Expanded="true" Text="Динамика показателей по НГВРП">
+          <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_NGVRP.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node165" ImageIndex="2" Expanded="true" Text="Площадка ДГ и ЭК">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_08_59006_DG_EK.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node52" ImageIndex="1" Text="Модуль насосов">
+        <Nodes Name="Node53" ImageIndex="2" Expanded="true" Text="Обзорная">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_16_59007_MP.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node54" ImageIndex="2" Expanded="true" Text="Насос Н-1/1">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_09_59007_H_1_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node55" ImageIndex="2" Expanded="true" Text="Насос Н-1/2">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_10_59007_H_1_2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node56" ImageIndex="2" Expanded="true" Text="Насос Н-1/3">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_57_59007_20010.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node57" ImageIndex="2" Expanded="true" Text="Насос Н-1/4">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_11_59007_H_1_3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node58" ImageIndex="2" Expanded="true" Text="Насос Н-1/5">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_12_59007_H_1_4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node59" ImageIndex="2" Expanded="true" Text="Насос Н-1/6">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_13_59007_H_1_5.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node60" ImageIndex="2" Expanded="true" Text="Насос Н-1/7">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_14_59007_H_1_6.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node61" ImageIndex="2" Expanded="true" Text="Насос Н-1/8">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_15_59007_H_1_7.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node62" ImageIndex="2" Expanded="true" Text="Насос Н-1/9">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_58_59007_20018.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node63" ImageIndex="0" Expanded="true" Text="Динамика показателей по Модулю насосов">
+          <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_ModulNasosov.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка резервуаров нефти">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_49_59301_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node64" ImageIndex="1" Text="Магистральная насосная">
+        <Nodes Name="Node65" ImageIndex="2" Expanded="true" Text="Обзорная">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_30_59011_mn.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node66" ImageIndex="2" Expanded="true" Text="Магистральные насосы Детально">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_31_59011_na_all.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node67" ImageIndex="0" Expanded="true" Text="Динамика показателей по Магистральной насосной">
+          <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_MagistrNasos.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="1" Text="Магистральная насосная">
+          <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Магистральная насосная">
+            <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59302.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Магистральная насосная H-3/7">
+            <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59302_H37.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Магистральная насосная H-3/8">
+            <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59302_H38.pdi</Tag>
+          </Nodes>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node68" ImageIndex="1" Text="Площадка печей (ПТБ)">
+        <Nodes Name="Node69" ImageIndex="2" Text="Обзорная">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_29_PTB10.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node70" ImageIndex="2" Text="Печь №1">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_34_59016_P1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node71" ImageIndex="2" Text="Печь №2">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_35_59016_P2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node72" ImageIndex="2" Text="Печь №3">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_36_59016_P3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node73" ImageIndex="2" Text="Печь №4">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_37_59016_p4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node74" ImageIndex="2" Text="Печь №5">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_2_59303_p5.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node75" ImageIndex="2" Text="Печь №6">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_3_59303_p6.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node76" ImageIndex="2" Text="Печь №7">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_4_59303_p7.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node77" ImageIndex="2" Text="Печь №8">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_4_59303_p8.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node78" ImageIndex="0" Text="Динамика показателей по Площадке печей">
+          <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_Pech.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node166" ImageIndex="2" Expanded="true" Text="Узел регулирования давления">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_28_URD.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node174" ImageIndex="2" Expanded="true" Text="СИКН">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_68_59113_sikn.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ОУУН БИЛ2">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_68_59113_sikn2.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Водоподготовка">
+      <Nodes Name="Node79" ImageIndex="1" Text="Установка подготовки воды">
+        <Nodes Name="Node80" ImageIndex="1" Text="Позиция 118">
+          <Nodes Name="Node83" ImageIndex="2" Expanded="true" Text="Обзорная">
+            <Tag xsi:type="xsd:string">WDU_S/wdu_s_18_59018_upv.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node84" ImageIndex="2" Expanded="true" Text="Н-5/1,2">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_25_59018_P_5.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node85" ImageIndex="2" Expanded="true" Text="Н-6/1,2">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_24_59018_P_6.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node86" ImageIndex="2" Expanded="true" Text="Насос Н-7/1">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_20_59018_H_7_1.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node87" ImageIndex="2" Expanded="true" Text="Насос Н-7/2">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_21_59018_H_7_2.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node88" ImageIndex="2" Expanded="true" Text="Насос Н-8/1">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_22_59018_H_8_1.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node89" ImageIndex="2" Expanded="true" Text="Насос Н-8/2">
+            <Tag xsi:type="xsd:string">WDU_S/wdu_s_23_59018_h_8_2.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node90" ImageIndex="0" Expanded="true" Text="Динамика параметров">
+            <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_upv.pdi</Tag>
+          </Nodes>
+        </Nodes>
+        <Nodes Name="Node81" ImageIndex="1" Text="Позиция 201">
+          <Nodes Name="Node91" ImageIndex="2" Expanded="true" Text="Подготовка пласт. воды">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_84_59201_2.PDI</Tag>
+          </Nodes>
+          <Nodes Name="Node92" ImageIndex="2" Expanded="true" Text="Подготовка подп. воды">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_82_59201.PDI</Tag>
+          </Nodes>
+          <Nodes Name="Node93" ImageIndex="2" Expanded="true" Text="Насосы пласт. воды 1">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_88_59201_40341.PDI</Tag>
+          </Nodes>
+          <Nodes Name="Node94" ImageIndex="2" Expanded="true" Text="Насосы пласт. воды 2">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_89_59201_40342.PDI</Tag>
+          </Nodes>
+          <Nodes Name="Node95" ImageIndex="2" Expanded="true" Text="Насосы пласт. воды 3">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_90_59201_40343.PDI</Tag>
+          </Nodes>
+          <Nodes Name="Node154" ImageIndex="1" Text="Насосы откачки из дегазаторов">
+            <Nodes Name="Node157" ImageIndex="2" Expanded="true" Text="Насосы откачки из дегазатора 3/1">
+              <Tag xsi:type="xsd:string">WDU_S/WDU_S_83_59201_P_35301.PDI</Tag>
+            </Nodes>
+            <Nodes Name="Node158" ImageIndex="2" Expanded="true" Text="Насосы откачки из дегазатора 3/2">
+              <Tag xsi:type="xsd:string">WDU_S/WDU_S_83_59201_P_35302.PDI</Tag>
+            </Nodes>
+          </Nodes>
+          <Nodes Name="Node96" ImageIndex="2" Expanded="true" Text="Дренаж">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_99_59277_Drainage.pdi</Tag>
+          </Nodes>
+        </Nodes>
+        <Nodes Name="Node82" ImageIndex="1" Text="Позиция 202">
+          <Nodes Name="Node97" ImageIndex="2" Expanded="true" Text="Линия 1">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_91_59202.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Node98" ImageIndex="2" Expanded="true" Text="Линия 2">
+            <Tag xsi:type="xsd:string">WDU_S/WDU_S_92_59202.pdi</Tag>
+          </Nodes>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node168" ImageIndex="2" Expanded="true" Text="Площадка резервуаров воды">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_49_59050_rvs.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node150" ImageIndex="1" Text="Насосы уловленной нефти">
+        <Nodes Name="Node151" ImageIndex="2" Expanded="true" Text="Насосы уловленной нефти 1">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_85_59201_40361.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Node152" ImageIndex="2" Expanded="true" Text="Насосы уловленной нефти 2">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_86_59201_40362.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Node153" ImageIndex="2" Expanded="true" Text="Насосы уловленной нефти 3">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_87_59201_40363.PDI</Tag>
+        </Nodes>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Подготовка газа">
+      <Nodes Name="Node178" ImageIndex="2" Expanded="true" Text="Узел подготовки газа ГС-1,2">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_03_59010_GS.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Узел подготовки газа ГС-3">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_03_59304_gs.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node177" ImageIndex="2" Expanded="true" Text="Узел учета газа">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_70_59212.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УУГ на ГГУ">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_70_59212_uug.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Узел регулирования давления газа (поз.310)">
+        <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59310.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node139" ImageIndex="1" Text="Площадка факельных сепараторов">
+        <Nodes Name="Node142" ImageIndex="2" Expanded="true" Text="Обзорная">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_40_59070_FVD_FND.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node143" ImageIndex="2" Expanded="true" Text="Насосы площадки факельных сепараторов">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_41_50070_h_2_all.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node144" ImageIndex="2" Expanded="true" Text="Площадка факельного сепаратора">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_65_58001_fvd.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node145" ImageIndex="0" Expanded="true" Text="Динамика показателей по ПФС">
+          <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_Fakel.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node140" ImageIndex="1" Text="Факела">
+        <Nodes Name="Node146" ImageIndex="2" Expanded="true" Text="Факел высокого давления">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_66_58001_burner.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node147" ImageIndex="2" Expanded="true" Text="Факел закрытого типа">
+          <Tag xsi:type="xsd:string">WDU_S/wdu_s_39_59045_burner.pdi</Tag>
+        </Nodes>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Дренажная система">
+      <Nodes Name="Node171" ImageIndex="2" Expanded="true" Text="Площадка дренажных емкостей">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_26_E138.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node167" ImageIndex="2" Expanded="true" Text="Площадка емкостей ЕП">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_17_59008_EP.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Здание насосной закрытой дренажной системы">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_a130_59237_ClosedDrSys.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сборные резервуары открытой дренажной системы">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_a121_59278_Drainage.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Емкость дренажная факельной системы ГГУ">
+        <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59342.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Вспомогательные системы">
+      <Nodes Name="Node156" ImageIndex="1" Text="Блок дозирования химреагентов">
+        <Nodes Name="Node160" ImageIndex="2" Expanded="true" Text="Деэмульгатор УДХ-1">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_79_59005.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Node161" ImageIndex="2" Expanded="true" Text="Депарафинизатор УДХ-2">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_80_59014.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Node162" ImageIndex="2" Expanded="true" Text="Ингибитор солеотлождений">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a104_59028.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node163" ImageIndex="2" Expanded="true" Text="Ингибитор коррозии">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a105_59025.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node164" ImageIndex="2" Expanded="true" Text="Ингибитор гидратообразования">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a106_59074.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок дозирования ингибитора солеобразования УДХ-5(поз.79 по ГП)">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a129_59279.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок дозирования ингибитора коррозии УДХ-6(поз.75 по ГП)">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_a132_59275_79.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка ресиверов воздуха КИПиА">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_a123_59286.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Комплектная установка по производству инертного газа">
+        <Tag xsi:type="xsd:string">WDU_S/wdu_s_a111_59059.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дополнительные системы">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_a131_Others.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node170" ImageIndex="2" Expanded="true" Text="Насосная дизельного топлива">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_19_Diesel.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node173" ImageIndex="2" Expanded="true" Text="Дизельная электростанция">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_64_59020_Des.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка резервуаров воды для хозяйственно-питьевых нужд">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_a122_DrenRezerv.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node155" ImageIndex="1" Text="Система пожаротушения">
+        <Nodes Name="Node159" ImageIndex="2" Expanded="true" Text="Площадка резервуаров для хранения пожарной воды">
+          <Tag xsi:type="xsd:string">WDU_S/WDU_S_98_57701_RVS41.pdi</Tag>
+        </Nodes>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="ГКС НД">
+      <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-Юг. ГКС НД. Обзорная">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_00_59400_MAIN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="1-я ступень компримирования. ТЛ1">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_02_59400_ST1_TL1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="1-я ступень компримирования. ТЛ2">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_03_59400_ST1_TL2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="1-я ступень компримирования. ТЛ3">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_04_59400_ST1_TL3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="2-я ступень компримирования. ТЛ1">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_06_59400_ST2_TL1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="2-я ступень компримирования. ТЛ2">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_07_59400_ST2_TL2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Емкость сбора конденсата Т26110">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_08_59402_T26110.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Емкость сбора конденсата T26090">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_11_59400_T26090.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Выкидные сепараторы V26080A, V26080B-A">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_12_59400_V26080.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Вентиляция компрессорного цеха. Фрагмент 1">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_15_59400_VKC1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Вентиляция компрессорного цеха. Фрагмент 2">
+        <Tag xsi:type="xsd:string">WDU_S/GKSND/GKSND_16_59400_VKC2.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node172" ImageIndex="2" Expanded="true" Text="Узел СОД в районе точки врезки">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_46_50058_SOD.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node179" ImageIndex="0" Expanded="true" Text="Динамика параметров по УПСВ-Юг">
+      <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_upsv-u.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Диагностика">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_47_Diagnose.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Узел регулирования давления (поз.310)&quot; ">
+      <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59301.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node169" ImageIndex="2" Text="Зона приема и запуска скребка">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_45_50061_SOD.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node170" ImageIndex="2" Expanded="true" Text="Насоснаа дизельного топлива">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_19_Diesel.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node173" ImageIndex="2" Expanded="true" Text="Дизельная электростанция">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_64_59020_Des.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node178" ImageIndex="2" Expanded="true" Text="Узел подготовки газа">
+      <Tag xsi:type="xsd:string">WDU_S/WDU_S_03_59010_GS.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="УПСВ-С">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. УПН ч.1">
+      <Tag xsi:type="xsd:string">WDU_N/DELTAV_test5_izm.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-С. УПН ч.2">
+      <Tag xsi:type="xsd:string">WDU_N/DELTAV_NOV_izm.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Подготовка нефти">
+      <Tag xsi:type="xsd:string">WDU_N/DeltaV.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Водоподготовка">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60000_00.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Цех №4-станция насосная внешней перекачки">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Цех №4-станция насосная внешней перекачки.">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_38_62219_00.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н1/1">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_39_62219_01_N1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н1/2">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_40_62219_02_N2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос Н1/3">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_41_62219_03_N3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н1/4">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_42_62219_04_N4.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н1/5">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_43_62219_05_N5.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н1/6">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_44_62219_06_N6.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н1/7">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_45_62219_07_N7.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Цех №2 - перекачка воды">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Цех №2 - перекачка воды">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_00.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос Н 2/1">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_01.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н 2/2">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_02.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н 2/3">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_03.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н 2/4">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_04.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н 2/5">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_05.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н 2/6">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_06.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н 2/7">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_07.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Н 2/8">
+        <Tag xsi:type="xsd:string">WDU_N/WDU_N_60013_08.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Пробкоуловитель СП1/1 и сепаратор газовый СГ1/1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_03_62200_01_SP1_03_SG1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепаратор газовый СГ1/1">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_05_62200_03_SG1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок подготовки газа БПГ2">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_74_62232.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепаратор концевой С3/1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_31_62206_04_S1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепаратор газовый СГ2">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_14_62201_07_SG2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадки нагревателей П1, П2. Печь П1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_21_62203_01_P1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадки нагревателей П1, П2. Печь П2">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_22_62203_02_P2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Площадки нагревателей П3, П4. Печь П3">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_23_62204_03_P3.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервуар нефти Р1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_35_62207_01_R1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Сепаратор трехфазный со сбросом воды НГСВ 1/1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_08_62201_01_NGSV1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепаратор трехфазный со сбросом воды НГСВ 1/2">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_09_62201_02_NGSV2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепаратор трехфазный со сбросом воды НГСВ 1/3">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_10_62201_03_NGSV3.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Сепаратор трехфазный со сбросом воды НГСВ 1/4">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_11_62201_04_NGSV4.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="СИКГ">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_73_62231.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Горизонтальная горелочная установка">
+      <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59340.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка факельных сепараторов ГГУ">
+      <Tag xsi:type="xsd:string">WDU_S/WDUS_ADD_59341.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Блок подготовки газа БПГ1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60003_00.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Емкости дренажные ЕУ-1, ЕУ-2 и емкость ЕП1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60016_00.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Факел низкого давления">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60028_FND.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Пробкоуловитель СП1/1">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_03_62200_01_SP1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Пробкоуловитель СП1/2">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_04_62200_02_SP2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Станция компрессорная воздушная">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60023_00.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Площадка ресиверов">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60027_00.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Узел сбора конденсата">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60035_00.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Котельная">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60051.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Станция азотная">
+      <Tag xsi:type="xsd:string">WDU_N/WDU_N_60026.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-С. Площадка для арматуры (поз.240)">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_70_62240.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Площадки нагревателей П5,П6. Печь П5">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_24_62205_05_P5.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Площадки нагревателей П3,П4. Печь П4">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_24_62204_04_P4.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Хозяйство метанольное. Расход метанола">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_00_62228_01.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-С. Блок дозирования ингибитора солеотложения БИС-2">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_00_62227_BIS2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Блок дозирования ингибитора БИК-2">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_00_62227_BEK2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Блок дозирования деэмульгатора БД-1">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_00_62227_BD.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-С. Хозяйство метанольное">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_00_62228.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. СИКН">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_65_62230_00.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. СИКН. БИК">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_67_62230_02_BIK.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. СИКН. БИЛ">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_66_62230_01_BIL.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Площадка НГСВ2">
+      <Tag xsi:type="xsd:string">WDU_N\WDU_N_15_62202_00.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="ЦПС">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная ГНПС и ЦПС">
+      <Tag xsi:type="xsd:string">CPS/CPS_05_ALL_Overview.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Подготовка нефти">
+      <Nodes Name="Новый" ImageIndex="2" Text="Подготовка нефти. Обзор.схема сист.20">
+        <Tag xsi:type="xsd:string">CPS/CPS_02_PREPARE_OIL.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Пробкоуловители  V-1010 A/B/C">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзор.схема система 10">
+          <Tag xsi:type="xsd:string">CPS/CPF_41000_01_Overview.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Входной манифольд X-9052">
+          <Tag xsi:type="xsd:string">CPS/CPF_41000_06_InletManifold.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Пробкоуловитель A.X-9040">
+          <Tag xsi:type="xsd:string">CPS/CPF_41000_02_PlugCatcherV1010A.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Пробкоуловитель B.X-9041">
+          <Tag xsi:type="xsd:string">CPS/CPF_41000_03_PlugCatcherV1010B.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Пробкоуловитель C.X-9051">
+          <Tag xsi:type="xsd:string">CPS/CPF_41000_04_PlugCatcherV1010C.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Эксплуатационный манифольд X-9042">
+          <Tag xsi:type="xsd:string">CPS/CPF_41000_05_OperatManifold.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="ТЛ-1.Сепарация и стабилизация нефти сист.20">
+        <Nodes Name="Новый" ImageIndex="2" Text="Сепарация и стабилизация нефти. ТЛ-1 ">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_01_Overview_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="1-я ступень сепарации. ТЛ-1. Х-9043">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_02_SeparatorV20101.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Теплообменник нефть/нефть. Гр 1. ТЛ-1">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_06_HeatExchE20201_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Теплообменник нефть/нефть. Гр 2. ТЛ-1">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_29_HeatExchE20201_2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Теплообменник нефть/нефть. Гр 3. ТЛ-1">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_32_HeatExchE20201_3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="2-я ступень сепарации. ТЛ-1. Х-9043">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_03_SeparatorV20301.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплообменник ТЭГ/нефть. ТЛ-1. Х-9003">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_07_HeatE20501.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Водяные насосы 2-й ступени. ТЛ-1. Х-9003">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_08PumpsP20401.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="3 ступень сепарации. ТЛ-1. Х-9044">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_L1_DG_EKG.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы перекачки товар.  нефти. ТЛ-1.  Х-9003">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_10PumpsP20701.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Водяные насосы 3-й ступени. ТЛ-1. Х-9003">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_09PumpsP20801.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок дозирования реагентов 1 ТЛ-1 ">
+          <Tag xsi:type="xsd:string">CPS/CPF_02_BDR.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="ТЛ-2.Сепарация и стабилизация нефти сист.20">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепарация и стабилизация нефти. ТЛ-2">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_01_Overview_2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="1-й ступень сепарации. ТЛ-2. Х-9045">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_11_SeparatorV20102.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплообменник нефть/нефть. Гр 1. ТЛ-2">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_15_HeatExchE20202_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Теплообменник нефть/нефть. Гр 2. ТЛ-2">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_30_HeatExchE20202_2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Теплообменник нефть/нефть. Гр 3. ТЛ-2">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_33_HeatExchE20202_3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="2 ступень сепарации. ТЛ-2. Х-9045">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_03_SeparatorV20302.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплообменник ТЭГ/нефть.ТЛ-2">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_16_HeatE20502.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Водяные насосы 2-й ступени. ТЛ-2. Х-9004">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_17PumpsP20402.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="3 ступень сепарации. ТЛ-2. Х-9046">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_L2_DG_EKG.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы перекачки товарной нефти. ТЛ-2. Х-9004">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_19_PumpsP20702.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Водяные насосы 3-й ступени. ТЛ-2. Х-9004">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_18PumpsP20802.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок дозирования реагентов 2 ТЛ-2">
+          <Tag xsi:type="xsd:string">CPS/CPF_03_BDR.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="ТЛ-3.Сепарация и стабилизация нефти сист.20">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ТЛ-3.Сепарация и стабилизация нефти">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_01_Overview_3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="1-я ступень сепарации. ТЛ-3. Х-9047">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_20_SeparatorV20103.PDI</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплообменник нефть/нефть. Группа 1. ТЛ-3">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_24_HeatExchE20203_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Теплообменник нефть/нефть. Группа 2. ТЛ-3">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_31_HeatExchE20203_2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Теплообменник нефть/нефть. Группа 3. ТЛ-3">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_34_HeatExchE20203_3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="2-я ступень сепарации. ТЛ-3. Х-9047">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_21_SeparatorV20303.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплообменник ТЭГ/нефть.ТЛ-3">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_25_HeatE20503.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Водяные насосы 2-й ступени. ТЛ-3. Х-9005">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_26PumpsP20403.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="3 ступень сепарации. ТЛ-3. Х-9048">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_L3_DG_EKG.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы перекачки товарной нефти. ТЛ-3. Х-9005">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_28PumpsP20703.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Водяные насосы 3-й ступени. ТЛ-3. Х-9005">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_27PumpsP20803.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок дозирования реагентов 3 ТЛ-3">
+          <Tag xsi:type="xsd:string">CPS/CPF_01_BDR.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Технологические резервуары сист.22">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" Технологические резервуары. Обзор. схема.">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_01_Tanks_Main.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="РВС Т-2210">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_02_Tanks_T2210.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВС Т-2220">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_07_Tanks_T2220.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВС Т-2230">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_08_Tanks_T2230.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Дренажная ёмкость для зачистки РВС П 172/1">
+          <Tag xsi:type="xsd:string">CPS/CPF_49628_DrainTankV22051.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Дренажная ёмкость для зачистки РВС П 172/2">
+          <Tag xsi:type="xsd:string">CPS/CPF_49628_DrainTankV22052.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Насосы перекачки РВС. Х-9001">
+        <Nodes Name="Новый" ImageIndex="2" Text="Насосы перекачки РВС. Х-9001">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_06_Pumps.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы перекачки нефти. Х-9001">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_03_PumpsP2280.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы перекачки воды  Х-9001">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_05_12_PumpsP2285.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы некондицонной нефти. Х-9001">
+          <Tag xsi:type="xsd:string">CPS/CPF_42200_06_PumpsP2290.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Насосы перекачки резервуаров. Х-9001">
+          <Tag xsi:type="xsd:string">CPS/CPS_03_X-9001.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепараторы высокого давления">
+        <Tag xsi:type="xsd:string">CPS/CPF_42000_Separator 1 level_Overview.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сепараторы низкого давления">
+        <Tag xsi:type="xsd:string">CPS/CPF_42000_Separator 2 level_Overview.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Подключение к комерческому УУН ">
+        <Tag xsi:type="xsd:string">CPS/CPF_41400_Plugging.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Водоподготовка">
+      <Nodes Name="Новый" ImageIndex="2" Text="Водоподготовка. Обзор.схема. сист. 35; 40">
+        <Tag xsi:type="xsd:string">CPS/CPS_VODOPODGOTOVKA.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Распред. гребёнка установок подготовки пластовой воды">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_02_Greb.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Установка подготовки пластовой воды 1. X-9008. сист.40">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Установка подготовки пластовой воды 1. X-9008">
+          <Tag xsi:type="xsd:string">CPS/CPF_44000_InstPrepareWater_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Гидроциклоны. ТЛ-1. X-9008">
+          <Tag xsi:type="xsd:string">CPS/CPF_44000_02_HydroCyclonesLine1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="1" Text="Флотационная установка. ТЛ-1. X-9008">
+          <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Флотационная установка. ТЛ-1. X-9008">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_03_FlotationLine1.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-4040-1А">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_02_PumpP40401A.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-4040-1B">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_02_PumpP40401B.pdi</Tag>
+          </Nodes>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Установка подготовки пластовой воды 2. X-9008.сист.40">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Установка подготовки пластовой воды 2. X-9008">
+          <Tag xsi:type="xsd:string">CPS/CPF_44000_InstPrepareWater_2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Гидроциклоны. ТЛ-2. X-9008">
+          <Tag xsi:type="xsd:string">CPS/CPF_44000_08_HydroCyclonesLine2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="1" Text="Флотационная установка. ТЛ-2. X-9008">
+          <Nodes Name="Новый" ImageIndex="2" Text="Флотационная установка. ТЛ-2. X-9008">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_09_FlotationLine2.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-4040-2А">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_02_PumpP40402A.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-4040-2B">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_09_PumpP40402B.pdi</Tag>
+          </Nodes>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Установка подготовки пластовой воды 3. X-9008.сист.40">
+        <Nodes Name="Новый" ImageIndex="2" Text="Установка подготовки пластовой воды 3. X-9008">
+          <Tag xsi:type="xsd:string">CPS/CPF_44000_InstPrepareWater_3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Гидроциклоны ТЛ-3. X-9008">
+          <Tag xsi:type="xsd:string">CPS/CPF_44000_11_HydroCyclonesLine3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="1" Text="Флотационная установка. ТЛ-3. X-9008">
+          <Nodes Name="Новый" ImageIndex="2" Text="Флотационная установка. ТЛ-3. X-9008">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_12_FlotationLine3.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-4040-3А">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_12_PumpP40403A.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-4040-3B">
+            <Tag xsi:type="xsd:string">CPS/CPF_44000_12_PumpP40403B.pdi</Tag>
+          </Nodes>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Узел учета пластовой воды. X-9178">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_14_BrineWaterMeter.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Установка подготовки подпиточной воды. X-9055.сист.35">
+        <Tag xsi:type="xsd:string">CPS/CPF_35000_01_MakerWater.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Узел учета подпиточной воды. X-9176">
+        <Tag xsi:type="xsd:string">CPS/CPF_35000_02_MetUnitMakeupWater.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Уравнительные резервуары с насосами пластовой воды">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_01_WaterTanksT4050.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВС T-4050A">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_05_WaterTankT4050A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВСT-4050B">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_06_WaterTankT4050B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы перекачки пластовой воды на фильтр. P-4060 A/B">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_07_WaterPumpsP4060.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос Р-4060 А">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_07_PumpP4060A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-4060 B">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_07_PumpP4060B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Установка фильтрации пластовой воды. X-9012. сист.41">
+        <Tag xsi:type="xsd:string">CPS/CPF_44100_01_Main_FiltWater.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Сосуд фильтра с наполнителем V-4101-A">
+        <Tag xsi:type="xsd:string">CPS/CPF_44100_02_FilterTankV4101A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Сосуд фильтра с наполнением V-4101-B">
+        <Tag xsi:type="xsd:string">CPS/CPF_44100_03_FilterTankV4101B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Емкости-отстойники фильтров T-4101 А/В. Х-9013">
+        <Tag xsi:type="xsd:string">CPS/CPF_44100_04_WaterTanksT4101.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Буферные резервуары  T-4310A/B">
+        <Tag xsi:type="xsd:string">CPS/CPF_44300_01_MainWT.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВС T-4310A">
+        <Tag xsi:type="xsd:string">CPS/CPF_44300_02_WaterTankT4310A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="РВС T-4310B">
+        <Tag xsi:type="xsd:string">CPS/CPF_44300_03_WaterTankT4310B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренажные насосы P-4070A/B">
+        <Tag xsi:type="xsd:string">CPS/CPF_44000_13_DrainPumpsP4070.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос P-4070A">
+        <Tag xsi:type="xsd:string">CPS/CPF_42000_13_PumpP4070A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос P-4070B">
+        <Tag xsi:type="xsd:string">CPS/CPF_42000_13_PumpP4070B.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Дренажные системы">
+      <Nodes Name="Новый" ImageIndex="2" Text="Дренажные системы. Обзорная мнемосхема">
+        <Tag xsi:type="xsd:string">CPS/CPS_SYSTEM_Drenash.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Закрытые дренажные системы">
+        <Nodes Name="Новый" ImageIndex="2" Text="Закрытые дренажные системы. Обзорная">
+          <Tag xsi:type="xsd:string">CPS/CPF_45900_ClosedDrainSys.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость закрытого дренажа V-5910">
+          <Tag xsi:type="xsd:string">CPS/CPF_45900_01_TankV5910.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость закрытого дренажа V-5920">
+          <Tag xsi:type="xsd:string">CPS/CPF_45900_01_TankV5920.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость закрытого дренажа V-5930">
+          <Tag xsi:type="xsd:string">CPS/CPF_45900_01_TankV5930.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="1" Text="Насосы емкостей закрытого дренажа. Модуль Х-9029">
+          <Nodes Name="Новый" ImageIndex="2" Text="Насосы емкостей закрытого дренажа. Модуль Х-9029">
+            <Tag xsi:type="xsd:string">CPS/CPF_45900_02_PumpsP5915.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-5915 А">
+            <Tag xsi:type="xsd:string">CPS/CPF_45900_02_PumpP5915A.pdi</Tag>
+          </Nodes>
+          <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-5915 B">
+            <Tag xsi:type="xsd:string">CPS/CPF_45900_02_PumpP5915B.pdi</Tag>
+          </Nodes>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Скид аварийной емкости V-6210">
+        <Nodes Name="Новый" ImageIndex="2" Text="Скид аварийной емкости V-6210. Обзорная">
+          <Tag xsi:type="xsd:string">CPS/CPF_46200_Emergency_System.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-6215А">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_08_PumpP6215A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Насос Р-6215B">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_08_PumpP6215B.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Система открытого дренажа опасных стоков">
+        <Nodes Name="Новый" ImageIndex="2" Text="Система открытого дренажа опасных стоков. Обзорная">
+          <Tag xsi:type="xsd:string">CPS/CPF_Drain_01_DH_Main.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6083">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_02_DrainTankV6083.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6084">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_03_DrainTankV6084.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6085">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_04_DrainTankV6085.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6086">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_05_DrainTankV6086.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6087">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_06_DrainTankV6087.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6088">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_07_DrainTankV6088.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6089">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_08_DrainTankV6089.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6091">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_09_DrainTankV6091.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость опасных стоков V-6093">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_11_DrainTankV6093.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Система открытого дренажа поверхностных стоков. Группа 1">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система открытого дренажа поверхносных стоков. Группа 1">
+          <Tag xsi:type="xsd:string">CPS/CPF_Drain_02_DN_Main_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6002">
+          <Tag xsi:type="xsd:string">CPS/CPF_49602_DrainTankV6002.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6003">
+          <Tag xsi:type="xsd:string">CPS/CPF_49603_DrainTankV6003.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6004">
+          <Tag xsi:type="xsd:string">CPS/CPF_49604_DrainTankV6004.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6005">
+          <Tag xsi:type="xsd:string">CPS/CPF_49605_DrainTankV6005.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6006">
+          <Tag xsi:type="xsd:string">CPS/CPF_49606_DrainTankV6006.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6007">
+          <Tag xsi:type="xsd:string">CPS/CPF_49607_DrainTankV6007.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Система открытого дренажа поверхностных стоков. Группа 2">
+        <Nodes Name="Новый" ImageIndex="2" Text="Система открытого дренажа поверхносных стоков. Группа 2">
+          <Tag xsi:type="xsd:string">CPS/CPF_Drain_03_DN_Main_2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6008">
+          <Tag xsi:type="xsd:string">CPS/CPF_49608_DrainTankV6008.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Емкость поверхностных стоков V-6009">
+          <Tag xsi:type="xsd:string">CPS/CPF_49609_DrainTankV6009.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6010">
+          <Tag xsi:type="xsd:string">CPS/CPF_49610_DrainTankV6010.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Емкость поверхностных стоков V-6011">
+          <Tag xsi:type="xsd:string">CPS/CPF_49611_DrainTankV6011.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6012">
+          <Tag xsi:type="xsd:string">CPS/CPF_49612_DrainTankV6012.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6013">
+          <Tag xsi:type="xsd:string">CPS/CPF_49613_DrainTankV6013.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Система открытого дренажа поверхностных стоков. Группа 3">
+        <Nodes Name="Новый" ImageIndex="2" Text="Система открытого дренажа поверхносных стоков. Группа 3">
+          <Tag xsi:type="xsd:string">CPS/CPF_Drain_04_DN_Main_3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6014">
+          <Tag xsi:type="xsd:string">CPS/CPF_49614_DrainTankV6014.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Емкость поверхностных стоков V-6015">
+          <Tag xsi:type="xsd:string">CPS/CPF_49615_DrainTankV6015.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6016">
+          <Tag xsi:type="xsd:string">CPS/CPF_49616_DrainTankV6016.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6017">
+          <Tag xsi:type="xsd:string">CPS/CPF_49617_DrainTankV6017.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6018">
+          <Tag xsi:type="xsd:string">CPS/CPF_49618_DrainTankV6018.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6019">
+          <Tag xsi:type="xsd:string">CPS/CPF_49619_DrainTankV6019.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6020">
+          <Tag xsi:type="xsd:string">CPS/CPF_49620_DrainTankV6020.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Система открытого дренажа поверхностных стоков. Группа 4">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система открытого дренажа поверхностных стоков. Группа 4">
+          <Tag xsi:type="xsd:string">CPS/CPF_Drain_05_DN_Main_4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6021">
+          <Tag xsi:type="xsd:string">CPS/CPF_49621_DrainTankV6021.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6022">
+          <Tag xsi:type="xsd:string">CPS/CPF_49622_DrainTankV6022.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6023">
+          <Tag xsi:type="xsd:string">CPS/CPF_49623_DrainTankV6023.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Емкость поверхностных стоков V-6024">
+          <Tag xsi:type="xsd:string">CPS/CPF_49624_DrainTankV6024.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Лаборатория на ЦПС. Дренажная емкость V-138">
+          <Tag xsi:type="xsd:string">CPS/CPF_40011_DrainTankV138.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Резервуар производственно-дождевых стоков Т-6030">
+          <Tag xsi:type="xsd:string">CPS/CPF_46000_TankT6030.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Насосы производственно-дождевых стоков P-6040 AB. X-9029">
+          <Tag xsi:type="xsd:string">CPS/CPF_P6040AB.pdi</Tag>
+        </Nodes>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Парк химических реагентов">
+      <Nodes Name="Новый" ImageIndex="2" Text="Парк химреагентов. Обзорная мнемосхема">
+        <Tag xsi:type="xsd:string">CPS/CPS_SYSTEM_HimReag.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервуар хранения ингибитора отложений T-6910. Парк хранения химреагнтов №1">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_02_InhibitorTankT6910.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Парк химических реагентов №1. Поглотитель кислорода">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_07_OxygenAbsorbT6955.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Парк химических реагентов №1. Обратный деэмульгатор">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_11_RevDemulTankT6980.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Парк химических реагентов №1. Триэтиленгликоль">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_13_TriGlycolTankT6965.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Парк химических реагентов №1. Деэмульгатор">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_15_DemulTankT6915.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Парк химических реагентов №1. Ингибитор коррозии (нефть)">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_17_InhibitorTankT6945.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Парк химических реагентов №2. Ингибитор коррозии (вода)">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_03_InhibitorTankT6930.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Парк химических реагентов №2. Антивспениватель(нефть)">
+        <Tag xsi:type="xsd:string">CPS/CPF_46900_05_AntifoamTankT6940.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="Подготовка теплоносителя">
+      <Nodes Name="Новый" ImageIndex="2" Text="Подготовка теплоносителя. Обзорная мнемосхема">
+        <Tag xsi:type="xsd:string">CPS/CPS_Teplonos.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы циркуляции теплоносителя">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_02_P5020_P5030.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Уравнительные ёмкости теплоносителя">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_04_07_SurgeTanks.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Резервуар хранения теплоносителя Т-5060. Подпиточные насосы Р-5065 А В">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервуар хранения теплоносителя Т-5060. Подпиточные насосы Р-5065 А В">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_05_HeatTankT5060.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Подпиточный насос Р-5065A">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_05_PumpP5065A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Подпиточный насос Р-5065B">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_05_PumpP5065B.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Аппарат воздушного охлаждения Е-5050">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_03_Ref.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплообменные аппраты системы нагрева теплоносителя ОБП">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_09_HeaterE5080.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Циркуляционные насосы теплоносителя. Контур ОБП">
+        <Nodes Name="Новый" ImageIndex="2" Text="Циркуляционные насосы теплоносителя. Контур ОБП">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_08_PumpsP5075.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="ЦПС. Циркуляционный насос (P-5075A) теплоносителя">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_08_PumpP5075A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="ЦПС. Циркуляционный насос (P-5075B) теплоносителя">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_08_PumpP5075B.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="ЦПС. Циркуляционный насос (P-5075C) теплоносителя">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_08_PumpP5075C.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Насосы циркуляции теплоносителя. Контур ЦПС">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосы циркуляции теплоносителя. Контур ЦПС">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_02_P5020_P5030.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос циркуляции (P-5020A) теплоносителя">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_02_PumpP5020A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос циркуляции (P-5020B) теплоносителя">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_02_PumpP5020B.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос циркуляции (P-5020С) теплоносителя">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_02_PumpP5020C.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насос циркуляции (P-5020D) теплоносителя">
+          <Tag xsi:type="xsd:string">CPS/CPF_42000_02_PumpP5020D.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Пусковой насос теплоносителя (P-5030)">
+          <Tag xsi:type="xsd:string">CPS/CPF_45000_02_PumpP5030.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Дренажная емкость теплоносителя V-6081. Поз.149">
+        <Tag xsi:type="xsd:string">CPS/CPF_46000_TankV6081.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Модуль подогрева нефти (распределение теплоносителя)">
+        <Tag xsi:type="xsd:string">CPS/GNPS_Raspredtepla.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Модули подогрева нефти X-9003,9004,9005">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_06_Distrib.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Система теплоносителя ГНПС, БКНС, КУПГ">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_16_Distrib_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Технологический и товарный парк нефти">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_11_Tanks_1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Системы теплоносителя эстакады М5">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_11_Tanks_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Безопасный контур теплоносителя. Парк ППД">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_11_Tanks_3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервуары химреагентов">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_10_Tanks.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренажная система теплоносителя">
+        <Tag xsi:type="xsd:string">CPS/CPF_45000_12_Drain.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Система инертного газа">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система инертного газа. Обзорная мнемосхема">
+        <Tag xsi:type="xsd:string">CPS/CPS_InactiveGasSys.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Азотная станция АДА-6600">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Азотная станция АДА-6600">
+          <Tag xsi:type="xsd:string">CPS/CPF_47500_InactiveGasSys_Grasis.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Установка АДА-3300-1">
+          <Tag xsi:type="xsd:string">CPS/CPF_47500_2_InactiveGasSys.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Установка АДА-3300-2">
+          <Tag xsi:type="xsd:string">CPS/CPF_47500_3_InactiveGasSys.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Установка МВА-300">
+        <Tag xsi:type="xsd:string">CPS/CPF_47500_4_InactiveGasSys.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Воздух КИП. Обзорная мнемосхема">
+      <Tag xsi:type="xsd:string">CPS/CPS_SYSTEM73_AirKip.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ЦПС. Система 73 и 75">
+      <Tag xsi:type="xsd:string">CPS/CPS.73.75.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="УПДТ">
+      <Nodes Name="Новый" ImageIndex="2" Text="Обзорная схема УПДТ">
+        <Tag xsi:type="xsd:string">CPS/UPDT/UPDT.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="СИКН, СИКГ, СИКДТ">
+        <Tag xsi:type="xsd:string">CPS/UPDT/UPDT_05_SIKN.pdi</Tag>
+      </Nodes>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Node132" ImageIndex="1" Text="УПН">
+    <Nodes Name="Node135" ImageIndex="2" Expanded="true" Text="Обзорная">
+      <Tag xsi:type="xsd:string">UPN/n_main.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node136" ImageIndex="2" Expanded="true" Text="Насосы перекачки нефти">
+      <Tag xsi:type="xsd:string">UPN/n_oilpumps.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node137" ImageIndex="2" Expanded="true" Text="Насосы перекачки воды и кубового остатка">
+      <Tag xsi:type="xsd:string">UPN/n_waterpumps.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node138" ImageIndex="2" Text="Насосы внешней перекачки">
+      <Tag xsi:type="xsd:string">UPN/n_bn3_pumps.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node180" ImageIndex="2" Text="Блок дозирования реагента">
+      <Tag xsi:type="xsd:string">UPN/n_bdr.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node181" ImageIndex="2" Expanded="true" Text="Факельное хозяйство">
+      <Tag xsi:type="xsd:string">UPN/n_jet.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node182" ImageIndex="2" Text="Пожар/загазованность">
+      <Tag xsi:type="xsd:string">UPN/n_gas.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node183" ImageIndex="2" Text="Емкости водяные">
+      <Tag xsi:type="xsd:string">UPN/n_watertanks.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node184" ImageIndex="2" Text="Узел учета нефти">
+      <Tag xsi:type="xsd:string">UPN/n_buun.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="БКНС">
+    <Nodes Name="Node99" ImageIndex="1" Text="БКНС-1 (позиция 117)">
+      <Nodes Name="Node101" ImageIndex="2" Text="Обзорная позиции 117">
+        <Tag xsi:type="xsd:string">BKNS/BKNS1/WDU_S_27_59008_BKNS.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node102" ImageIndex="2" Text="Насос Н-1">
+        <Tag xsi:type="xsd:string">BKNS/BKNS1/WDU_S_51_59017_NA1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node103" ImageIndex="2" Text="Насос Н-2">
+        <Tag xsi:type="xsd:string">BKNS/BKNS1/WDU_S_52_59017_NA2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node104" ImageIndex="2" Text="Насос Н-3">
+        <Tag xsi:type="xsd:string">BKNS/BKNS1/WDU_S_52_59017_NA3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node105" ImageIndex="0" Expanded="true" Text="Динамика показателей по БКНС">
+        <Tag xsi:type="xsd:string">WDU_S/DINAMIKA_WDU_S/dinamic_BKNS.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node100" ImageIndex="1" Text="БКНС-2 (позиция 203)">
+      <Nodes Name="Node106" ImageIndex="2" Expanded="true" Text="Обзорная по подпорным и высоконапорным насосам">
+        <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_01_59203_Main.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node107" ImageIndex="2" Text="Обзорная насосов системы фильтрации">
+        <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_19_59203_Main_60.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node108" ImageIndex="1" Text="Подпорные насосы">
+        <Nodes Name="Node114" ImageIndex="2" Text="Подпорный насос 1">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_04_59203_P43020A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node115" ImageIndex="2" Text="Подпорный насос 2">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_05_59203_P43020B.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node116" ImageIndex="2" Text="Подпорный насос 3">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_06_59203_P43020C.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node117" ImageIndex="2" Text="Подпорный насос 4">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_07_59203_P43020D.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node118" ImageIndex="2" Text="Подпорный насос 5">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_08_59203_P43020E.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node119" ImageIndex="2" Text="Наработка по насосам">
+          <Tag xsi:type="xsd:string">WDU_S/WDUS_20_59203_TIME.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node109" ImageIndex="1" Text="Высоконапорные насосы">
+        <Nodes Name="Node120" ImageIndex="2" Expanded="true" Text="Высоконапорный насос 1">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_09_59203_P43030A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node121" ImageIndex="2" Text="Высоконапорный насос 2">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_10_59203_P43030B.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node122" ImageIndex="2" Text="Высоконапорный насос 3">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_11_59203_P43030C.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node123" ImageIndex="2" Text="Высоконапорный насос 4">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_12_59203_P43030D.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node124" ImageIndex="2" Text="Высоконапорный насос 5">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_13_59203_P43030E.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node125" ImageIndex="2" Text="Наработка по насосам">
+          <Tag xsi:type="xsd:string">WDU_S/WDUS_20_59203_TIME.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node110" ImageIndex="1" Text="Насосы системы фильтрации">
+        <Nodes Name="Node126" ImageIndex="2" Text="Насос системы фильтрации 1">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_14_59203_P43060A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node127" ImageIndex="2" Text="Насос системы фильтрации 2">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_15_59203_P43060B.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node128" ImageIndex="2" Text="Насос системы фильтрации 3">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_16_59203_P43060C.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node129" ImageIndex="2" Text="Насос системы фильтрации 4">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_17_59203_P43060D.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node130" ImageIndex="2" Text="Насос системы фильтрации 5">
+          <Tag xsi:type="xsd:string">BKNS/BKNS2/WDUS_18_59203_P43060E.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Node131" ImageIndex="2" Text="Наработка по насосам фильтрации">
+          <Tag xsi:type="xsd:string">WDU_S/WDUS_21_59203_TIME_6.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Node111" ImageIndex="2" Text="Емкость отработанного масла">
+        <Tag xsi:type="xsd:string">WDU_S/WDUS_25_59203_EM.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node112" ImageIndex="2" Text="Схема управления оборудованием СГУ">
+        <Tag xsi:type="xsd:string">WDU_S/WDUS_25_59203_SGU.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node113" ImageIndex="2" Text="Узел учета воды">
+        <Tag xsi:type="xsd:string">WDU_S/WDUS_25_59203_UUW.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="БКНС-3">
+      <Nodes Name="Новый" ImageIndex="2" Text="Насосная станция системы ППД">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_00.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №1 (Н 3/1)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_01.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №2 (Н 3/2)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_02.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №3 (Н 3/3)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_03.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №4 (Н 3/4)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_04.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №5 (Н 3/5)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_05.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №6 (Н 3/6)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_06.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №7 (Н 3/7)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_07.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПСВ-С. Насосная станция системы ППД. Насос АНЦН №8 (Н 3/8)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_08.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосная станция системы ППД. АЦНС №1 (4/1)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_11.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосная станция системы ППД. АЦНС №2 (4/2)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_12.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насосная станция системы ППД. АЦНС №3 (4/3)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_13.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосная станция системы ППД. АЦНС №4 (4/4)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_14.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосная станция системы ППД. АЦНС №5 (4/5)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_15.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насосная станция системы ППД. АЦНС №6 (4/6)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_16.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насосная станция системы ППД. АЦНС №7 (4/7)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_17.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Насосная станция системы ППД. АЦНС №8 (4/8)">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_18.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Вибромониторинг насосов Н4/1-Н4/8">
+        <Tag xsi:type="xsd:string">BKNS/BKNS3/WDU_N_60030_SHV1.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="БКНС-4">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ЦПС. БКНС-4">
+        <Tag xsi:type="xsd:string">CPS/GNPS_BKNS4.pdi</Tag>
+      </Nodes>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="ЦПС Газ">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная ПГ">
+      <Tag xsi:type="xsd:string">RITS/ObzornayaGazPG.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная ПНГ">
+      <Tag xsi:type="xsd:string">RITS/ObzorPNG.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная по газу 2">
+      <Tag xsi:type="xsd:string">RITS/ObzorGas2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Обзорная по газу 3">
+      <Tag xsi:type="xsd:string">RITS/ObzorGas3.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Факела ВД и НД">
+      <Tag xsi:type="xsd:string">CPS/GazProgram/Fakel/CPS_04_FAK_NAKON.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Факельные системы">
+      <Tag xsi:type="xsd:string">CPS/GazProgram/Fakel/CPF_45700_01_Main.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="КУПГиК">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Попутный и топливный газ">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_42800_01.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 02. ГАЗ">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_40200_gas.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 02. ТЭГ">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_40200_teg_main.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 52">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_45200_main.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Система 28. ГАЗ, ТЭГ">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 28. ГАЗ, ТЭГ">
+          <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_Beta.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Блок абсорбера С-2801-1,арматурный блок абсорбера AU-2801-1">
+          <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_42800_C_2801_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Блок абсорбера С-2801-2,арматурный блок абсорбера AU-2801-2">
+          <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_42800_C_2801_2.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 29. Газоконденсат">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_42900_main.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 48. Общая">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49202_UCP3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" К-2901-1">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49202_K1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" К-2901-2">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49202_K2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" К-2901-3">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49202_K3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" К-2901-4">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49202_K4.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 48. АВО">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49202_AVO_E2905_V2902.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Система 30">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 30">
+          <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_44600_main.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="АВО стабильного газового бензина АС-3002, блок замера СГБ">
+          <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_44600_AC_3002.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система 31">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_44700_main.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КУПГиК. Схема общая СУГ 49220">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49212_main.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КУПГиК. Блок емкостей хранения пропана V44001-A-00,V44001-B-00">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49209_gaz.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КУПГиК. Сепаратор газовый S44001-00 49217">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49217.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="КУПГиК. Блок насосно-арматурный, пункт заправки баллонов 49210">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49210.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="КУПГиК. Емкость слива остатков V-44002-00 49212">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49212.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КУПГиК. Пункт заправки баллонов. Одорация">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_49210_odoracia.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КУПГиК. Блок регенерации ТЭГа U-2801, блок насоса подпитки ТЭГа P-2803">
+        <Tag xsi:type="xsd:string">CPS\KUPG\KUPG_K_42800_U_2801.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КУПГиК. Блок утилизации отпарного газа FS-2803">
+        <Tag xsi:type="xsd:string">CPS/KUPG/KUPG_K_42800_BUOG.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="ГКСВД">
+      <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="Компрессорный цех №1">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сист. 30 Узел замера (поз.187)">
+          <Tag xsi:type="xsd:string">CPS/System 30_1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ №1. Обзорная">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49006_01_Overview.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ №1. Узел подкл-я, сепараторы">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49006_02_ConnectionNode.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ №1. Емкости">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49006_03_Capacity.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ №1. Вентиляция П1-П4">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49006_04_ForcedVentP1_P4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ №1. Вентиляция П5-П9">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49006_04_ForcedVentP5_P9.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ - Склад масел. Насосная">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49006_06_300_SM_B.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Компрессорный цех №2">
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ №2. Обзорная">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49009_01_Overview.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="КЦ №2. Узел подкл-я, сепараторы">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49009_02_ConnectionNode.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="КЦ №2. Емкости">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49009_03_Capacity.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КЦ №2. Вентиляция П1-П4">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49009_04_ForcedVentP1_P4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="КЦ №2. Вентиляция П5-П9">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_49009_04_ForcedVentP5_P9.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Компрессорный цех №3">
+        <Nodes Name="Новый" ImageIndex="2" Text="Газокомпрессорная СВД">
+          <Tag xsi:type="xsd:string">CPS/GKSVD3/GKSVD_00_49041_Main.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА №1">
+          <Tag xsi:type="xsd:string">CPS/GKSVD3/GPA1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА №2">
+          <Tag xsi:type="xsd:string">CPS/GKSVD3/GPA2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА №3">
+          <Tag xsi:type="xsd:string">CPS/GKSVD3/GPA3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА №4">
+          <Tag xsi:type="xsd:string">CPS/GKSVD3/GPA4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА №5">
+          <Tag xsi:type="xsd:string">CPS/GKSVD3/GPA5.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="ГКА-1 статус сигналов">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_11_49041_M1AP1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА1 АВО ">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_01_49041_M1A.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА2 АВО">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_02_49041_M1B.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА3 АВО">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_03_49041_M1C.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА4 АВО">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_04_49041_M1D.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА5 АВО">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_05_49041_M1EA.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Загазованность отм. +0.000">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_93_49041_Z_KC.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКА-1-5 Вентиляция отм. +0.000">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_92_49041_V_KC.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="МИЖУ">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_102_49041_V_O_SP.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="МИЖУ Вентиляция П1">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_102_49041_V_SPT.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Эстакада подкл-я КЦ №3. загазованность.">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_91_49041_Z_ES.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Склад масел. Вентиляция. Отопление отм. +0.000">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_101_49041_V_SM.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплоснабжение блок-боксов модулей ГКА- 1-3">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_94_49041_O_GPA_T1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Теплоснабжение блок-боксов модулей  ГКА-4,5">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_95_49041_O_GPA_T2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КСПГ УРГ">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_66_49041_URG.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КСПГ Загазованность отм. +5.900">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_107_49041_Z_KSPG1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КСПГ ОВКВ П1.1">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_106_49041_V_KSPG4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КСПГ ОВКВ П1.2">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_105_49041_V_KSPG3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КСПГ ОВКВ П2.1">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_104_49041_V_KSPG2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КСПГ ОВКВ П2.2">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_103_49041_V_KSPG1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="КСПГ АТП Взлет">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_100_49041_V_EB4.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Энергоблок. Вентиляция">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_97_49041_V_EB1.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Энергоблок. Вентиляция П1">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_98_49041_V_EB2.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Энергоблок. Вентиляция П2">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_99_49041_V_EB3.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Площадка установки подготовки топливного и уплотнительного газов">
+          <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_71_49041_UPTUG1.pdi</Tag>
+        </Nodes>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="УПГ-2">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="МТДА- 1,2,3.">
+        <Tag xsi:type="xsd:string">UPG2/TDA_MAIN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная схема осушки газа">
+        <Tag xsi:type="xsd:string">UPG2/oper1_fix_5.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная схема отбензинивания и охлаждения газа">
+        <Tag xsi:type="xsd:string">UPG2/oper2_fix5.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УОиОГ. Площадка ГС S-301">
+        <Tag xsi:type="xsd:string">UPG2/V6_Otbenzin_Separat_gazov_1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УОиОГ. Площадка ГС S-302">
+        <Tag xsi:type="xsd:string">UPG2/V6_Otbenzin_Separat_gazov_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УОиОГ. Площадка НТС S-303/2">
+        <Tag xsi:type="xsd:string">UPG2/V6_Otbenzin_Separat_nizkotemp_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УОиОГ. Площадка НТС S-303/1">
+        <Tag xsi:type="xsd:string">UPG2/V6_Otbenzin_Separat_nizkotemp_1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УОиОГ. ТО &quot;газ-природный газ&quot; Е-301 и &quot;газ-газ&quot; Е-302">
+        <Tag xsi:type="xsd:string">UPG2/V6_Plochadka_teploobmen_1_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УОиОГ. ТО &quot;газ-конденсат&quot; Е-303">
+        <Tag xsi:type="xsd:string">UPG2/V6_Plochadka_teploobmen_2_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УОиОГ. Площадка АВО">
+        <Tag xsi:type="xsd:string">UPG2/V6_Plowadka_AVO_1_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок абсорбера С-201/1 с AU-201/1">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Abs_C_201_1_s_arm_blokom_n.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Блок абсорбера С-201/2 с AU-201/2">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Abs_C_201_2_s_arm_blokom_n.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="АВО паров колонны">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_AVO_parov_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Аварийные ЕД V59300 и V59301">
+        <Tag xsi:type="xsd:string">UPG2/v6_emk_avar_drenazh.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок ДГ D-201">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Degazator_D_201_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="БРТ U-201/1">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Regeneraciya_TEGa_U_201_1n.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="БРТ U-201/2">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Regeneraciya_TEGa_U_201_2n.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Площадка АВО ТЭГа">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Plowadka_AVO_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" Блок угольных фильтров, тонкой очистки">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Blok_filtrov_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок емкости свежего ТЭГа V-202">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Emk_xr_svejego_TEGa_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок насосов подачи ТЭГа в С-201/1, С-201/2">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Nasos_podachi_TEG_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="БД пеногасителя U-205. БД рН U-204">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Dozir_him_reag_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок утилизации отпарного газа U-206">
+        <Tag xsi:type="xsd:string">UPG2/V6_O_Ytilizaciya_otparn_gaza_nw.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка емкостей реагентов V28401-00,V28402-00">
+        <Tag xsi:type="xsd:string">UPG2/UPG2_Plosh_Emk_Reagen.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Компрессорная сжатого воздуха">
+        <Tag xsi:type="xsd:string">UPG2/UPG2_stan_komp_sgat_vozd.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка ФС  V58201-1,V58201-2,V58200-1,V58200-2">
+        <Tag xsi:type="xsd:string">UPG2/UPG2_plosh_fakel_separ_v58201.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Установка отбензинивания и охлаждения газа. Площадка дегазатора конденсата D-301">
+        <Tag xsi:type="xsd:string">UPG2/V6_Otbenzin_Degazator_new.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКСВД. УПТиУГ. Отсек управления">
+        <Tag xsi:type="xsd:string">CPS/GKSVD/GKSVD_75_49041_UPTUG5.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="ГКСНД">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКС НД X-9007">
+        <Tag xsi:type="xsd:string">CPS/GKSND/CPF_00_9007_MAIN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКС НД X-9006">
+        <Tag xsi:type="xsd:string">CPS/GKSND/CPF_00_9006_MAIN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ГКС НД X-9031">
+        <Tag xsi:type="xsd:string">CPS/GKSND/CPF_00_9031_MAIN.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="СИКН т.11">
+      <Nodes Name="Новый" ImageIndex="2" Text="СИКН т.11">
+        <Tag xsi:type="xsd:string">PPS/pps_11_30145_sikn.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="СИКН т.11 предыдущий оперативный отчет">
+        <Tag xsi:type="xsd:string">PPS/pps_11_30145_sikn_2h.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Динамика показателей СИКН т.11">
+        <Tag xsi:type="xsd:string">PPS/dinamic_t11_sikn.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Здание  технологического оборудования (Диагностика)">
+      <Tag xsi:type="xsd:string">PS1/PS1_21_00442_ZTO_DIAG.PDI</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="УПГ">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная">
+      <Tag xsi:type="xsd:string">UPG/UPG_Obzor.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Газодобывающие скважины">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка №1: газодобывающая скважина №14 (38510)">
+        <Tag xsi:type="xsd:string">UPG/aaa_14.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка №1: газодобывающая скважина №14а (38510)">
+        <Tag xsi:type="xsd:string">UPG/aaa_14a.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка №2: газодобывающая скважина №14б (38550)">
+        <Tag xsi:type="xsd:string">UPG/aaa_14b.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка №2: газодобывающая скважина №14в (38550)">
+        <Tag xsi:type="xsd:string">UPG/aaa_14v.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка №2: газодобывающая скважина №14г (38550)">
+        <Tag xsi:type="xsd:string">UPG/aaa_14g.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПГ. БВШиВС">
+      <Tag xsi:type="xsd:string">UPG/UPG_BVSHVS.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПГ.БЗиРГ">
+      <Tag xsi:type="xsd:string">UPG/UPG_BZiRG.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПГ. Блок подключения газа">
+      <Tag xsi:type="xsd:string">UPG/UPG_bpg.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="БДМ АГГ">
+      <Tag xsi:type="xsd:string">UPG/UPG_BDM_AGG.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="ГНПС">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" Обзорная ГНПС и ЦПС">
+      <Tag xsi:type="xsd:string">CPS/CPS_01_GNPS.Overview.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная общая">
+      <Tag xsi:type="xsd:string">CPS/CPS_05_ALL_Overview.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="Резервуары хранения товарной нефти">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервуары хранения товарной нефти">
+        <Tag xsi:type="xsd:string">CPS/CPF_42200_18_Tanks_Main_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВС Т-2240">
+        <Tag xsi:type="xsd:string">CPS/CPF_42200_04_Tanks_T2240.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВС Т-2250">
+        <Tag xsi:type="xsd:string">CPS/CPF_42200_09_Tanks_T2250.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="РВС Т-2260">
+        <Tag xsi:type="xsd:string">CPS/CPF_42200_10_Tanks_T2260.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РВС Т-2270">
+        <Tag xsi:type="xsd:string">CPS/CPF_42200_11_Tanks_T2270.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Обзорная по насосам (ПНА, МНА)">
+      <Nodes Name="Новый" ImageIndex="2" Text="Обзорная по насосам (ПНА, МНА)">
+        <Tag xsi:type="xsd:string">CPS/SPS_01_21400_Main.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Магистральный насос №1">
+        <Tag xsi:type="xsd:string">CPS/SPS_07_21400_P14020A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Магистральный насос №2">
+        <Tag xsi:type="xsd:string">CPS/SPS_08_21400_P14020B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Магистральный насос №3">
+        <Tag xsi:type="xsd:string">CPS/SPS_09_21400_P14020C.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Магистральный насос №4">
+        <Tag xsi:type="xsd:string">CPS/SPS_10_21400_P14020D.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Подпорный насос №1">
+        <Tag xsi:type="xsd:string">CPS/SPS_02_21400_P14010A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Подпорный насос №2">
+        <Tag xsi:type="xsd:string">CPS/SPS_03_21400_P14010B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Подпорный насос №3">
+        <Tag xsi:type="xsd:string">CPS/SPS_04_21400_P14010C.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Подпорный насос №4">
+        <Tag xsi:type="xsd:string">CPS/SPS_05_21400_P14010D.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Подпорный насос №5">
+        <Tag xsi:type="xsd:string">CPS/SPS_06_21400_P14010E.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ЗТО. Теплообменники">
+      <Tag xsi:type="xsd:string">CPS/SPS_34_29002_Main.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text=" Узел регулирования давления">
+      <Tag xsi:type="xsd:string">CPS/SPS_26_29002_URD.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Система зачистки резервуарного парка нефти">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система зачистки резервуарного парка нефти">
+        <Tag xsi:type="xsd:string">CPS/CPF_42200_DrainSys.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосная V-2206-1">
+        <Tag xsi:type="xsd:string">CPS/CPF_49635_PumpStationV22061.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосная V-2206-2">
+        <Tag xsi:type="xsd:string">CPS/CPF_49636_PumpStationV22062.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Узел оперативного учета Поз. 168">
+        <Tag xsi:type="xsd:string">CPS/CPF_49632_MeterStation.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренажная емкость для зачистки РВС Поз. 172/3">
+        <Tag xsi:type="xsd:string">CPS/CPF_49630_DrainTankV22061.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренажная емкость для зачистки РВС Поз. 172/4">
+        <Tag xsi:type="xsd:string">CPS/CPF_49631_DrainTankV22062.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Узел предохранительных клапанов УПК-1">
+      <Tag xsi:type="xsd:string">CPS/SPS_24_21408_UPK.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка фильтров-грязеуловителей">
+      <Tag xsi:type="xsd:string">CPS/SPS_25_21402_FILTERS.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренаж. емкость  ЕП-3(поз.164)">
+      <Tag xsi:type="xsd:string">CPS/SPS_20_26001_DE.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Дренаж. емкость  ЕП-4(поз.165)">
+      <Tag xsi:type="xsd:string">CPS/SPS_21_26002_DE.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренажная емкость теплоносителя ЕП-2(поз.163)">
+      <Tag xsi:type="xsd:string">CPS/SPS_22_25003_DE.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка дренаж.емкостей ЕП-1/1,2(поз.162)">
+      <Tag xsi:type="xsd:string">CPS/SPS_23_25901_DE.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Блок-бокс дренаж. емкости отработанного масла(поз.182)">
+      <Tag xsi:type="xsd:string">CPS/SPS_27_29007_DE.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="НПС-1">
+    <Nodes Name="Новый" ImageIndex="2" Text="Общая обзорная мнемосхема">
+      <Tag xsi:type="xsd:string">PS1/PS1_00_70000_OVERVIEW.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Обзорная мнемосхема с запорной арматурой">
+      <Tag xsi:type="xsd:string">PS1/PS1_00_70000_STRUCT.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Площадка фильтров-грязеуловителей. V59010A/B">
+      <Tag xsi:type="xsd:string">PS1/PS1_01_70000_FG.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Узел сброса давления. Блок ССВД">
+      <Tag xsi:type="xsd:string">PS1/PS1_15_70000_USD.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Печи">
+      <Nodes Name="Новый" ImageIndex="2" Text="Площадка печей F14010A-00 (№1). V59010C">
+        <Tag xsi:type="xsd:string">PS1/PS1_02_1_70000_PPN_A.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка печей F14010B/C (№ 2, 3)">
+        <Tag xsi:type="xsd:string">PS1/PS1_02_2_70000_PPN_BC.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка печей F14010D/E (№ 4, 5)">
+        <Tag xsi:type="xsd:string">PS1/PS1_02_3_70000_PPN_DE.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Площадка печей F14010F/G (№ 6, 7)">
+        <Tag xsi:type="xsd:string">PS1/PS1_02_4_70000_PPN_FG.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Детальная мнемосхема печи №1">
+        <Tag xsi:type="xsd:string">PS1/PS1_11_1_70000_PPN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Детальная мнемосхема печи №2">
+        <Tag xsi:type="xsd:string">PS1/PS1_11_2_70000_PPN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Детальная мнемосхема печи №3">
+        <Tag xsi:type="xsd:string">PS1/PS1_11_3_70000_PPN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Детальная мнемосхема печи №4">
+        <Tag xsi:type="xsd:string">PS1/PS1_11_4_70000_PPN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Детальная мнемосхема печи №5">
+        <Tag xsi:type="xsd:string">PS1/PS1_11_5_70000_PPN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Детальная мнемосхема печи №6">
+        <Tag xsi:type="xsd:string">PS1/PS1_11_6_70000_PPN.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Детальная мнемосхема печи №7">
+        <Tag xsi:type="xsd:string">PS1/PS1_11_7_70000_PPN.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Магистральная насосная НПС-1">
+      <Nodes Name="Новый" ImageIndex="2" Text="Обзорная магистральной насосной НПС-1">
+        <Tag xsi:type="xsd:string">PS1/PS1_30_71400_OVERVIEW.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="МНА-4">
+        <Tag xsi:type="xsd:string">PS1/PS1_31_71400_P14010A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="МНА-3">
+        <Tag xsi:type="xsd:string">PS1/PS1_32_71400_P14010B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="МНА-2">
+        <Tag xsi:type="xsd:string">PS1/PS1_33_71400_P14010C.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="МНА-1">
+        <Tag xsi:type="xsd:string">PS1/PS1_34_71400_P14010D.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="ПНА-2">
+        <Tag xsi:type="xsd:string">PS1/PS1_35_71400_P22010A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="ПНА-1">
+        <Tag xsi:type="xsd:string">PS1/PS1_36_71400_P22010B.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Здание технологического оборудования">
+      <Tag xsi:type="xsd:string">PS1/PS1_20_00442_ZTO_MAIN.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервуарный парк нефти">
+      <Tag xsi:type="xsd:string">PS1/PS1_14_70000_RP.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервуары топливной нефти">
+      <Tag xsi:type="xsd:string">PS1/PS1_04_70000_RTN.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Насосная топливной нефти. V54010">
+      <Tag xsi:type="xsd:string">PS1/PS1_03_70000_NTN.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Установка по производству инертного газа">
+      <Tag xsi:type="xsd:string">PS1/PS1_13_70000_AZOTA.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система оборота дизельного топлива">
+      <Tag xsi:type="xsd:string">PS1/PS1_05_1_70000_DT.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система оборота дизельного топлива. ТЗП">
+      <Tag xsi:type="xsd:string">PS1/PS1_05_2_70000_DT.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Реагентное хозяйство">
+      <Tag xsi:type="xsd:string">PS1/PS1_06_1_70000_RH.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Реагентное хозяйство. Продолжение">
+      <Tag xsi:type="xsd:string">PS1/PS1_06_2_70000_RH.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренажные емкости (ЕК-2;6;7;8:9;10; РН-1;2 РО-1)">
+      <Tag xsi:type="xsd:string">PS1/PS1_07_70000_EK.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дренажные емкости (ЕК-1 ЕК-3 ЕК-4 ЕК-5)">
+      <Tag xsi:type="xsd:string">PS1/PS1_07_70000_EK2.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Схема водоснабжения">
+      <Tag xsi:type="xsd:string">PS1/PS1_08_70000_VH.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Очистные сооружения бытовых стоков. КСК-50СФ">
+      <Tag xsi:type="xsd:string">PS1/PS1_08_70000_VH_KOS.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Дизельная электростанция 32 МВт">
+      <Tag xsi:type="xsd:string">PS1/PS1_10_70000_DES.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РУ 10 КВ">
+      <Tag xsi:type="xsd:string">PS1/PS1_37_71400_RU10KV.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Диагностика">
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Диагностика. Аппаратная МН">
+        <Tag xsi:type="xsd:string">PS1/PS1_38_71400_DIAG.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ЗТО. Диагностика">
+        <Tag xsi:type="xsd:string">PS1/PS1_21_00442_ZTO_DIAG.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Диагностика. Аппаратная 0-го ПК">
+        <Tag xsi:type="xsd:string">PS1/PS1_09_2_70000_DIAGNOSTIKA.PDI</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Диагностика. Аппаратная 1-го ПК">
+        <Tag xsi:type="xsd:string">PS1/PS1_16_70000_KTP_DIAG.pdi</Tag>
+      </Nodes>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Node134" ImageIndex="1" Text="НПС-2">
+    <Nodes Name="Node206" ImageIndex="2" Expanded="true" Text="НПС-2 Структура">
+      <Tag xsi:type="xsd:string">PS2/PS2_35_80000_Struct.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Обзорная мнемосхема НПС-2">
+      <Nodes Name="Новый" ImageIndex="2" Text="Обзорная мнемосхема НПС-2">
+        <Tag xsi:type="xsd:string">PS2/ps2_00_80000_overview.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="Магистральная насосная НПС-2">
+        <Nodes Name="Новый" ImageIndex="2" Text="Магистральная насосная НПС-2">
+          <Tag xsi:type="xsd:string">PS2/ps2_50_81400_overview.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Магистральные насосы">
+          <Tag xsi:type="xsd:string">PS2/PS2_81400_P14010all.pdi</Tag>
+        </Nodes>
+        <Nodes Name="Новый" ImageIndex="2" Text="Перекачивающие насосы">
+          <Tag xsi:type="xsd:string">PS2/PS2_81400_P22010all.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Печи F14010A-00">
+        <Nodes Name="Новый" ImageIndex="2" Text="Печи F14010A-00">
+          <Tag xsi:type="xsd:string">PS2/PS2_02_80000_f14010a.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Печи F14010B/C/D-00">
+        <Nodes Name="Новый" ImageIndex="2" Text="Печи F14010B/C/D-00">
+          <Tag xsi:type="xsd:string">PS2/PS2_03_80000_f14010bcd.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="1" Text="Печи F14010E/F-00,Емкость V59010C-00">
+        <Nodes Name="Новый" ImageIndex="2" Text="Печи F14010E/F-00,Емкость V59010C-00">
+          <Tag xsi:type="xsd:string">PS2/PS2_04_80000_f14010ef_v59010c.pdi</Tag>
+        </Nodes>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Система оборота дизельного топлива (начало)">
+        <Tag xsi:type="xsd:string">PS2/PS2_05_80000_systemadt_1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Система оборота дизельного топлива (окончание)">
+        <Tag xsi:type="xsd:string">PS2/PS2_06_80000_systemadt_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Реагентное хозяйство (начало)">
+        <Tag xsi:type="xsd:string">PS2/PS2_07_80000_ReagentHoz_1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Реагентное хозяйство (окончание)">
+        <Tag xsi:type="xsd:string">PS2/PS2_08_80000_reagenthoz_2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Установка по производству инертного газа">
+        <Tag xsi:type="xsd:string">PS2/PS2_12_80000_ShemaAzota.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node215" ImageIndex="2" Text="Система топливного газа">
+        <Tag xsi:type="xsd:string">PS2/ps2_11_80000_brg.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Резервуарный парк нефти">
+        <Tag xsi:type="xsd:string">PS2/PS2_30_80000_RP.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Узел сброса давления/Блок ССВД">
+        <Tag xsi:type="xsd:string">PS2/PS2_32_80000_USD.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node224" ImageIndex="2" Text="Здание технологического оборудования">
+        <Tag xsi:type="xsd:string">PS2/PS2_70_00442_ZTO_main.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Топливозаправочнй Пункт">
+      <Tag xsi:type="xsd:string">PS2/PS2_76_80000_TZP.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Резервная газопоршневая электростанция 3,06 МВт">
+      <Tag xsi:type="xsd:string">PS2/PS2_14_80000_GPS_DES.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="РУ 10 КВ">
+      <Tag xsi:type="xsd:string">PS2/PS2_57_81400_RU10kv.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node214" ImageIndex="2" Text="Водоснабжение">
+      <Tag xsi:type="xsd:string">PS2/ps2_10_80000_vodosnabjenie.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Очистные сооружения. КСК-50СФ">
+      <Tag xsi:type="xsd:string">PS2/PS2_25_80000_KOS1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Очистка производственно-бытовых и дождевых стоков">
+      <Tag xsi:type="xsd:string">PS2/PS2_09_80000_os.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Очистка производственно-бытовых и дождевых стоков 2">
+      <Tag xsi:type="xsd:string">PS2/PS2_31_80000_OS2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Динамика параметров НПС-2">
+      <Tag xsi:type="xsd:string">PS2/Dinamics_RegimniyList.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="УПГ-НПС-2">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="УПГ НПС-2. Обзорная">
+      <Tag xsi:type="xsd:string">PS2/UPG_01_05000_UPG.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПГ. Блок входных шлейфов и замера расхода">
+      <Tag xsi:type="xsd:string">PS2/UPG_02_05000_BlockShleyf.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПГ НПС-2. БПГ - узел сепарации">
+      <Tag xsi:type="xsd:string">PS2/UPG_03_05000_BPG1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПГ НПС-2. БПГ - узел редуцирования">
+      <Tag xsi:type="xsd:string">PS2/UPG_04_05000_BPG2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node207" ImageIndex="2" Text="Емкости V59010A/B-00. Площадка фильтров-грязеуловителей">
+      <Tag xsi:type="xsd:string">PS2/ps2_01_80000_ev59010_fg.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node219" ImageIndex="2" Text="Структурная схема">
+      <Tag xsi:type="xsd:string">PS2/PS2_35_80000_Struct.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПГ НПС-2. Насосы внешней подачи метанола, узел учета">
+      <Tag xsi:type="xsd:string">PS2/UPG_05_05000_PumpMet1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПГ НПС-2. Насосы внутренней перекачки метанола">
+      <Tag xsi:type="xsd:string">PS2/UPG_06_05000_PumpMet2.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="УПГ НПС-2. Блок насосной реагентов, емкость приема метанола">
+      <Tag xsi:type="xsd:string">PS2/UPG_07_05000_BNR.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Node231" ImageIndex="1" Expanded="true" Text="КНПС">
+    <Nodes Name="Node232" ImageIndex="2" Expanded="true" Text="Обзорная схема">
+      <Tag xsi:type="xsd:string">KNPS/FPS_01_90000_MAIN.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node244" ImageIndex="2" Expanded="true" Text="Фильтры-грязеуловители ФГГ">
+      <Tag xsi:type="xsd:string">KNPS/FPS_20_90000_FILTER.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node240" ImageIndex="2" Expanded="true" Text="Узел ССВД">
+      <Tag xsi:type="xsd:string">KNPS/SSVD/FPS_05_90000_SSVD.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node236" ImageIndex="1" Text="Печи подогрева нефти">
+      <Nodes Name="Node277" ImageIndex="2" Expanded="true" Text="Узел подогрева нефти">
+        <Tag xsi:type="xsd:string">KNPS/PODOGREV/FPS_07_90000_PODOGREV.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node278" ImageIndex="2" Expanded="true" Text="ПТБ10-1">
+        <Tag xsi:type="xsd:string">KNPS/PODOGREV/FPS_12_90000_PODOGREV1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node279" ImageIndex="2" Expanded="true" Text="ПТБ10-2">
+        <Tag xsi:type="xsd:string">KNPS/PODOGREV/FPS_13_90000_PODOGREV2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node280" ImageIndex="2" Text="ПТБ10-3">
+        <Tag xsi:type="xsd:string">KNPS/PODOGREV/FPS_14_90000_PODOGREV3.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node237" ImageIndex="1" Text="Резервуары ">
+      <Nodes Name="Node281" ImageIndex="2" Expanded="true" Text="Обзорная">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_43_90000_RVS.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node282" ImageIndex="2" Text="T22010A">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_25_90000_T22010A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node283" ImageIndex="2" Text="T22010B">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_26_90000_T22010B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node284" ImageIndex="2" Expanded="true" Text="T22010C">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_27_90000_T22010C.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node285" ImageIndex="2" Text="T22010D">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_28_90000_T22010D.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node286" ImageIndex="2" Text="T22010E">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_29_90000_T22010E.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node287" ImageIndex="2" Text="T22010F">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_30_90000_T22010F.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node288" ImageIndex="2" Text="T22010G">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_31_90000_T22010G.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node289" ImageIndex="2" Expanded="true" Text="T22010H">
+        <Tag xsi:type="xsd:string">KNPS/T22010/FPS_32_90000_T22010H.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node239" ImageIndex="1" Text="Подтоварная вода">
+      <Nodes Name="Node292" ImageIndex="2" Expanded="true" Text="Узел замера подтоварной воды">
+        <Tag xsi:type="xsd:string">KNPS/FPS_10_90000_UZELW.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node293" ImageIndex="2" Expanded="true" Text="Емкости подтоварной воды">
+        <Tag xsi:type="xsd:string">KNPS/FPS_33_90000_TANKWATER.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node233" ImageIndex="1" Text="Технологическая насосная">
+      <Nodes Name="Node259" ImageIndex="2" Expanded="true" Text="Обзорная">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_01_91400_TECHNPUMS.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node260" ImageIndex="2" Expanded="true" Text="МНА1">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_02_91400_P14002A.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node261" ImageIndex="2" Expanded="true" Text="МНА2">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_03_91400_P14002B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node262" ImageIndex="2" Expanded="true" Text="ПНА1">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_04_91400_P14001E.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node263" ImageIndex="2" Expanded="true" Text="ПНА2">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_05_91400_P14001D.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node264" ImageIndex="2" Expanded="true" Text="ПНА3">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_06_91400_P14001C.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node265" ImageIndex="2" Text="ПНА4">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_07_91400_P14001B.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node266" ImageIndex="2" Text="ПНА5">
+        <Tag xsi:type="xsd:string">KNPS/PUMPS/FPS_08_91400_P14001A.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node253" ImageIndex="2" Expanded="true" Text="Узел предохранительных клапанов">
+      <Tag xsi:type="xsd:string">KNPS/FPS_61_90000_SPPK.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node238" ImageIndex="1" Text="Узел регуляторов давления">
+      <Nodes Name="Node290" ImageIndex="2" Text="УРД №1">
+        <Tag xsi:type="xsd:string">KNPS/URD/FPS_06_90000_URD1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node291" ImageIndex="2" Text="УРД №2">
+        <Tag xsi:type="xsd:string">KNPS/SIKN/FPS_04_90000_SIKN.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node257" ImageIndex="2" Text="СИКН">
+      <Tag xsi:type="xsd:string">KNPS/SIKN/FPS_04_90000_SIKN.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node234" ImageIndex="1" Text="Система инертного газа">
+      <Nodes Name="Node246" ImageIndex="2" Text="Ресиверы азота">
+        <Tag xsi:type="xsd:string">KNPS/FPS_24_90000_INGAS.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node268" ImageIndex="2" Expanded="true" Text="МВА-2040, КМ101">
+        <Tag xsi:type="xsd:string">KNPS/KM/FPS_02_90000_KM.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node269" ImageIndex="2" Expanded="true" Text="МВА-2040, КМ201">
+        <Tag xsi:type="xsd:string">KNPS/KM/FPS_47_90000_KM.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node270" ImageIndex="2" Expanded="true" Text="МВА-2040, КМ301">
+        <Tag xsi:type="xsd:string">KNPS/KM/FPS_48_90000_KM.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node271" ImageIndex="2" Expanded="true" Text="МВА-100, КМ401, КМ501">
+        <Tag xsi:type="xsd:string">KNPS/KM/FPS_60_90000_KM.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node267" ImageIndex="2" Expanded="true" Text="Утечка">
+        <Tag xsi:type="xsd:string">KNPS/KM/FPS_03_90000_KM.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node235" ImageIndex="1" Text="Дренажные емкости">
+      <Nodes Name="Node272" ImageIndex="2" Text="U59001 - U59003">
+        <Tag xsi:type="xsd:string">KNPS/DRAINAGE/FPS_21_90000_DRAINAGE1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node273" ImageIndex="2" Text="U59004, U59005">
+        <Tag xsi:type="xsd:string">KNPS/DRAINAGE/FPS_39_90000_DRAINAGE2.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node274" ImageIndex="2" Text="60001 - 60004">
+        <Tag xsi:type="xsd:string">KNPS/DRAINAGE/FPS_42_90000_DRAINAGE3.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node275" ImageIndex="2" Text="Открытые дренажи">
+        <Tag xsi:type="xsd:string">KNPS/DRAINAGE/FPS_36_90000_TANKSTOCK.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node276" ImageIndex="2" Text="V14407 - V14408">
+        <Tag xsi:type="xsd:string">KNPS/DRAINAGE/FPS_23_90000_TANKOIL.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node241" ImageIndex="2" Text="Топливный газ">
+      <Tag xsi:type="xsd:string">KNPS/FPS_08_90000_TOPLGAZ.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node243" ImageIndex="2" Expanded="true" Text="Воздух (техн. и КИПиА)">
+      <Tag xsi:type="xsd:string">KNPS/FPS_11_90000_TECHAIR.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node254" ImageIndex="2" Expanded="true" Text="Загазованность и вентилиция технологической насосной">
+      <Tag xsi:type="xsd:string">KNPS/FPS_62_90000_FAN.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node248" ImageIndex="2" Expanded="true" Text="Установка закачки химреагентов">
+      <Tag xsi:type="xsd:string">KNPS/FPS_37_90000_CHEMOIL.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node249" ImageIndex="2" Text="Раздаточная">
+      <Tag xsi:type="xsd:string">KNPS/FPS_38_90000_RAZDAT.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node245" ImageIndex="2" Text="Дизель">
+      <Tag xsi:type="xsd:string">KNPS/FPS_22_90000_DIZEL.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node252" ImageIndex="2" Text="Дизельная электростанция">
+      <Tag xsi:type="xsd:string">KNPS/FPS_46_90000_DES.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node242" ImageIndex="2" Text="Канализация">
+      <Tag xsi:type="xsd:string">KNPS/FPS_09_90000_KANAL.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node247" ImageIndex="2" Text="Очистные сооружения">
+      <Tag xsi:type="xsd:string">KNPS/FPS_40_90000_OCHISTN.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node251" ImageIndex="2" Text="Резервуар промышленных стоков">
+      <Tag xsi:type="xsd:string">KNPS/FPS_45_90000_OCHISTN.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node255" ImageIndex="2" Expanded="true" Text="Резервуары для нефраса, отработка нефтепродуктов и химреактивов">
+      <Tag xsi:type="xsd:string">KNPS/FPS_35_90000_CHEMICAL.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node256" ImageIndex="2" Text="Установка подготовки питьевой воды">
+      <Tag xsi:type="xsd:string">KNPS/FPS_49_90000_READYWATER.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node250" ImageIndex="2" Expanded="true" Text="Пресная вода">
+      <Tag xsi:type="xsd:string">KNPS/FPS_44_90000_PRESSWATER.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node258" ImageIndex="0" Expanded="true" Text="Динамика параметров по КНПС">
+      <Tag xsi:type="xsd:string">KNPS/Dinamics_RegimniyList.PDI</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Node133" ImageIndex="1" Text="ЛЧМН">
+    <Nodes Name="Новый" ImageIndex="2" Text="Объединенная схема северная и южная">
+      <Tag xsi:type="xsd:string">MOP/mop_0102_90000_main_comb.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node185" ImageIndex="2" Expanded="true" Text="Обзорная схема. Северная часть">
+      <Tag xsi:type="xsd:string">MOP/mop_01_90000_main.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node186" ImageIndex="2" Expanded="true" Text="Обзорная схема. Южная часть">
+      <Tag xsi:type="xsd:string">MOP/mop_02_90000_main.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node187" ImageIndex="2" Expanded="true" Text="Линейные задвижки №№25-523">
+      <Tag xsi:type="xsd:string">MOP/mop_lzd_all.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="13100 Узел врезки Тагул (67.4 км)">
+      <Tag xsi:type="xsd:string">MOP/MOP_R_31_13100_LZD67.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Node188" ImageIndex="1" Text="СОД">
+      <Nodes Name="Node193" ImageIndex="2" Text="Узел запуска СОД №1 (0 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_18_10100_sod1.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Узел подключения УПСВ ЮГ 9,6 км">
+        <Tag xsi:type="xsd:string">WDU_S/WDU_S_46_50058_SOD.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node194" ImageIndex="2" Expanded="true" Text="Узел приема/запуска СОД №85 (88,5 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_22_12900_sod85.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node195" ImageIndex="2" Expanded="true" Text="Узел приёма/запуска СОД №172 (182,4км)">
+        <Tag xsi:type="xsd:string">MOP/mop_27_10900_sod172.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node196" ImageIndex="2" Text="Узел запуска СОД №216 (228,7 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_30_11200_sod216.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node197" ImageIndex="2" Text="Узел приема СОД №223 (237 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_01_11300_sod223.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node198" ImageIndex="2" Text="Узел приема/запуска СОД №240 (253,3 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_02_13000_sod240.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node199" ImageIndex="2" Text="Узел приема/запуска СОД №313 (327,7 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_05_11600_sod313.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node200" ImageIndex="2" Text="Узел приема/запуска СОД №400 (412,8 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_09_12000_sod400.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node201" ImageIndex="2" Text="Узел запуска СОД №466 (475,9 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_12_12300_sod466.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node202" ImageIndex="2" Text="Узел приема/запуска СОД №470,471 (484,8 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_13_12400_sod470.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node203" ImageIndex="2" Text="Узел запуска СОД №495 (513,1 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_14_12500_sod495.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node204" ImageIndex="2" Text="Узел приема СОД №505 (524,8 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_15_12600_sod505.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node205" ImageIndex="2" Text="Узел приема СОД №543 (556,5 км)">
+        <Tag xsi:type="xsd:string">MOP/mop_17_12800_sod543.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="1" Text="Диагностика ЛЧМН">
+      <Nodes Name="Node191" ImageIndex="2" Expanded="true" Text="КРУН">
+        <Tag xsi:type="xsd:string">MOP/mop_41_90000_krun.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Node190" ImageIndex="2" Expanded="true" Text="Оперативная диагностика ЛЧМН">
+        <Tag xsi:type="xsd:string">MOP/diagMOP.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Пинг контроллеров ROC800 с ОБП">
+        <Tag xsi:type="xsd:string">MOP/ping_roc_on_lchm.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Пинг контроллеров ROC800 с КНПС">
+        <Tag xsi:type="xsd:string">MOP/ping_roc_on_knps.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Напряжения питания с РЩ в ПКУ">
+        <Tag xsi:type="xsd:string">MOP/mop_01_PKU_ALL.pdi</Tag>
+      </Nodes>
+      <Nodes Name="Новый" ImageIndex="2" Text="Система катодной защиты ЛЧМН">
+        <Tag xsi:type="xsd:string">MOP/mop_SKZ_sod.pdi</Tag>
+      </Nodes>
+    </Nodes>
+    <Nodes Name="Node192" ImageIndex="0" Expanded="true" Text="Динамика показателей по ЛЧМН">
+      <Tag xsi:type="xsd:string">MOP/Dynamic_MOP.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Node189" ImageIndex="2" Expanded="true" Text="Сетевая доступность контроллеров ROC">
+      <Tag xsi:type="xsd:string">MOP/IT_KNPS_PING_ROC.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Анализ срабатываний СОУ">
+      <Tag xsi:type="xsd:string">MOP/mop_sou_analysis_01.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="ЛЧМГ">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзорная по МГ">
+      <Tag xsi:type="xsd:string">RITS/ObzorMG.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="СИККГ. Газопровод Ванкор-Хальмерпаютинское">
+      <Tag xsi:type="xsd:string">CPS/GazProgram/SIKG_Gazoprovod.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="СКЗ. Газопровод Ванкор-Хальмерпаютинское">
+      <Tag xsi:type="xsd:string">CPS/Gazprogram/SKZ_Gazoprovod.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Динамика показателей газопровода">
+      <Tag xsi:type="xsd:string">CPS/GAZProgram/Dynamic_SIKKG.PDI</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="Блок боксы АПЭК">
+      <Tag xsi:type="xsd:string">CPS/GazProgram/APEK_Gazoprovod.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Пожарная система">
+      <Tag xsi:type="xsd:string">CPS/GazProgram/PS_Gazoprovod.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="Сузун">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="СУЗУН. Обзорная УПН">
+      <Tag xsi:type="xsd:string">SUZUN/Suzun_UPN_Obzor.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="ОБП">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="База ГСМ">
+      <Tag xsi:type="xsd:string">OBP/FSB_01_OBP19_BaseGSM.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Насосная ГСМ">
+      <Tag xsi:type="xsd:string">OBP/FSB_02_OBP19_NasosnayaGSM.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Парк резервуаров">
+      <Tag xsi:type="xsd:string">OBP/FSB_03_OBP19_TanksPark.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="АЗС">
+      <Tag xsi:type="xsd:string">OBP/FSB_04_OBP_25_AZS.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Жилой вахтовый посёлок. Ёмкости и резервуары">
+      <Tag xsi:type="xsd:string">OBP/FSB_05_OBP_25_VillageTanks.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Центральные склады">
+      <Tag xsi:type="xsd:string">OBP/FSB_06_OBP_25_CentDepot.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ЖВП Жилищно-бытовой комплекс">
+      <Tag xsi:type="xsd:string">OBP/FSB_08_OBP1_1_VillageZhBK.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="База производственного обслуживания">
+      <Tag xsi:type="xsd:string">OBP/FSB_09_OBP1_1_Prod_Service_Base.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Диагностика">
+      <Tag xsi:type="xsd:string">OBP/FSB_12_OBP_Diagnostic.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Сети контроля и автоматики">
+      <Tag xsi:type="xsd:string">OBP/FSB_14_OBP_InspectNetworks.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ЖВК. Площадка ХБО. Сети автоматизации">
+      <Tag xsi:type="xsd:string">OBP/FSB_30000_AutomationTankV100.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="ЖВК. Резервуар очищенной питьевой воды V-1000">
+      <Tag xsi:type="xsd:string">OBP/FSB_30033_WaterTankV1000.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Text="Погода">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Метеостанции АМК-03">
+      <Tag xsi:type="xsd:string">Meteo/meteo_01_1.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="Обзор температуры">
+      <Tag xsi:type="xsd:string">Meteo/ObzorTemp.pdi</Tag>
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="1" Expanded="true" Text="РИТС">
+    <Nodes Name="Новый" ImageIndex="2" Expanded="true" Text="РИТС Обзорная">
+      <Tag xsi:type="xsd:string">CPS/CPS_05_ALL_Overview.pdi</Tag>
+    </Nodes>
+    <Nodes Name="Новый" ImageIndex="2" Text="ритс-1">
+      <Tag xsi:type="xsd:string" />
+    </Nodes>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="2" Text="ритс-v1">
+    <Tag xsi:type="xsd:string">RITS/rits1v1.pdi</Tag>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="2" Text="Обзорная по газовой программе">
+    <Tag xsi:type="xsd:string">CPS/CPS_ObzorGas.pdi</Tag>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="2" Text="Обзорная Турбодетандер 1, 2, 3">
+    <Tag xsi:type="xsd:string">RITS/MTDA.pdi</Tag>
+  </Nodes>
+  <Nodes Name="Новый" ImageIndex="2" Text="Обзорная по газу 2">
+    <Tag xsi:type="xsd:string">RITS/ObzorGas2.pdi</Tag>
+  </Nodes>
+</TreeView>
