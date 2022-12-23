@@ -156,6 +156,6 @@ foreach ($MenuLevel1 in $MenuLevel0) {
 
 #$ElementList | Format-Table -Property Type, Path, AttributeDataReferenceProperties, Name, ElementTemplate, AttributeDataReference,  AttributeValueType, AttributeUOM, ttributeDisplayDigits
 #($ElementList | Where-Object -Property type -eq Element).Count
-($ElementList | Where-Object {$PSItem.Path -like '*НПС-1*' -and $PSItem.Type -eq 'Element'}) | Format-Table -Property Type, Path, AttributeDataReferenceProperties, Name, ElementTemplate, AttributeDataReference,  AttributeValueType, AttributeUOM, ttributeDisplayDigits
-($ElementList | Where-Object -Property Path -like '*НПС-1*').Count
-($ElementList | Where-Object {$PSItem.Path -like '*НПС-1*' -and $PSItem.Type -eq 'Element'}).Count
+#($ElementList | Where-Object {$PSItem.Path -like '*НПС-1*' -and $PSItem.Type -eq 'Element'}) | Format-Table -Property Type, Path, AttributeDataReferenceProperties, Name, ElementTemplate, AttributeDataReference,  AttributeValueType, AttributeUOM, ttributeDisplayDigits
+#($ElementList | Where-Object -Property Path -like '*НПС-1*').Count
+#($ElementList | Where-Object {$PSItem.Path -like '*НПС-1*' -and $PSItem.Type -eq 'Element'}).Count
